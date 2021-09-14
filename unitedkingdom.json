@@ -1,0 +1,2222 @@
+[
+  {
+    "Id": 0,
+    "CamLink": "http://217.44.213.18:80/GetData.cgi?CH=1",
+    "CamImage": "http://217.44.213.18:80/GetImage.cgi?CH=0",
+    "Latitude": 5.140606E+07,
+    "Longitude": -413700.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 1,
+    "CamLink": "http://86.186.143.156:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://86.186.143.156:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.041667E+07,
+    "Longitude": -5050000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 2,
+    "CamLink": "http://146.198.233.160:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://146.198.233.160:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 3,
+    "CamLink": "http://81.158.85.104:80/img/video.mjpeg",
+    "CamImage": "http://81.158.85.104:80/img/video.mjpeg",
+    "Latitude": 5.214739E+07,
+    "Longitude": 1192960.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 4,
+    "CamLink": "http://109.181.79.152:8081/mjpg/video.mjpg",
+    "CamImage": "http://109.181.79.152:8081/jpg/image.jpg",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 5,
+    "CamLink": "http://79.78.238.157:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://79.78.238.157:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.188921E+07,
+    "Longitude": 904210.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 6,
+    "CamLink": "http://109.151.108.142:8080/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://109.151.108.142:8080/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.124677E+07,
+    "Longitude": 606820.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 7,
+    "CamLink": "http://86.167.209.150:8000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://86.167.209.150:8000/record/current.jpg",
+    "Latitude": 5.294978E+07,
+    "Longitude": -959070.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 8,
+    "CamLink": "http://109.146.184.143:8080/cam_1.cgi",
+    "CamImage": "http://109.146.184.143:8080/cam_1.cgi",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 9,
+    "CamLink": "http://176.250.133.132:80/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://176.250.133.132:80/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.101787E+07,
+    "Longitude": -4204580.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 10,
+    "CamLink": "http://109.148.192.143:80/mjpg/video.mjpg",
+    "CamImage": "http://109.148.192.143:80/jpg/image.jpg",
+    "Latitude": 5.073592E+07,
+    "Longitude": -2957100.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 11,
+    "CamLink": "http://176.24.254.116:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://176.24.254.116:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.082838E+07,
+    "Longitude": -139470.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 12,
+    "CamLink": "http://86.180.178.130:8081/img/video.mjpeg",
+    "CamImage": "http://86.180.178.130:8081/img/video.mjpeg",
+    "Latitude": 5.443333E+07,
+    "Longitude": -6416670.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 1
+  },
+  {
+    "Id": 13,
+    "CamLink": "http://86.180.178.130:80/img/video.mjpeg",
+    "CamImage": "http://86.180.178.130:80/img/video.mjpeg",
+    "Latitude": 5.443333E+07,
+    "Longitude": -6416670.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 1
+  },
+  {
+    "Id": 14,
+    "CamLink": "http://86.151.34.83:1024/mjpg/video.mjpg",
+    "CamImage": "http://86.151.34.83:1024/jpg/image.jpg",
+    "Latitude": 5.417841E+07,
+    "Longitude": -6337390.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 1
+  },
+  {
+    "Id": 15,
+    "CamLink": "http://81.152.34.121:85/mjpg/video.mjpg",
+    "CamImage": "http://81.152.34.121:85/jpg/image.jpg",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 16,
+    "CamLink": "http://31.50.205.99:1024/mjpg/video.mjpg",
+    "CamImage": "http://31.50.205.99:1024/jpg/image.jpg",
+    "Latitude": 5.443431E+07,
+    "Longitude": -6299290.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 1
+  },
+  {
+    "Id": 17,
+    "CamLink": "http://86.14.105.82:8080/?action=stream",
+    "CamImage": "http://86.14.105.82:8080/?action=snapshot",
+    "Latitude": 5.356539E+07,
+    "Longitude": -75530.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 18,
+    "CamLink": "http://90.252.190.70:8080/?action=stream",
+    "CamImage": "http://90.252.190.70:8080/?action=snapshot",
+    "Latitude": 5.381819E+07,
+    "Longitude": -1456550.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 19,
+    "CamLink": "http://90.252.190.70:8081/?action=stream",
+    "CamImage": "http://90.252.190.70:8081/?action=snapshot",
+    "Latitude": 5.381819E+07,
+    "Longitude": -1456550.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 20,
+    "CamLink": "http://95.146.218.55:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://95.146.218.55:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.31905E+07,
+    "Longitude": -2891890.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 21,
+    "CamLink": "http://212.159.94.56:8080/?action=stream",
+    "CamImage": "http://212.159.94.56:8080/?action=snapshot",
+    "Latitude": 5.145625E+07,
+    "Longitude": -971130.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 22,
+    "CamLink": "http://86.191.103.53:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://86.191.103.53:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.338297E+07,
+    "Longitude": -1465900.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 23,
+    "CamLink": "http://84.13.110.39:84/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://84.13.110.39:84/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.175222E+07,
+    "Longitude": -1255960.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 24,
+    "CamLink": "http://86.30.160.210:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://86.30.160.210:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 25,
+    "CamLink": "http://78.148.81.190:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.148.81.190:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.267659E+07,
+    "Longitude": -2449260.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 26,
+    "CamLink": "http://88.108.51.167:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.108.51.167:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.124677E+07,
+    "Longitude": 606820.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 27,
+    "CamLink": "http://82.26.228.167:8080/?action=stream",
+    "CamImage": "http://82.26.228.167:8080/?action=snapshot",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 28,
+    "CamLink": "http://109.155.133.143:8082/mjpg/video.mjpg",
+    "CamImage": "http://109.155.133.143:8082/jpg/image.jpg",
+    "Latitude": 5.188921E+07,
+    "Longitude": 904210.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 29,
+    "CamLink": "http://92.13.30.124:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://92.13.30.124:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.565333E+07,
+    "Longitude": -4706660.0,
+    "CountryCode": "gb",
+    "Region": "Scotland",
+    "CamType": 0
+  },
+  {
+    "Id": 30,
+    "CamLink": "http://81.168.55.88:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://81.168.55.88:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.07236E+07,
+    "Longitude": -3527510.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 31,
+    "CamLink": "http://81.143.226.86:85/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://81.143.226.86:85/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 32,
+    "CamLink": "http://212.159.94.56:8082/?action=stream",
+    "CamImage": "http://212.159.94.56:8082/?action=snapshot",
+    "Latitude": 5.145625E+07,
+    "Longitude": -971130.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 33,
+    "CamLink": "http://86.0.146.14:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://86.0.146.14:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.079899E+07,
+    "Longitude": -1091250.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 34,
+    "CamLink": "http://2.27.102.187:80/mjpg/video.mjpg",
+    "CamImage": "http://2.27.102.187:80/jpg/image.jpg",
+    "Latitude": 5.26E+07,
+    "Longitude": 1733330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 35,
+    "CamLink": "http://87.74.67.81:80/oneshotimage1?COUNTER",
+    "CamImage": "http://87.74.67.81:80/oneshotimage1?COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 36,
+    "CamLink": "http://86.141.43.139:85/mjpg/video.mjpg",
+    "CamImage": "http://86.141.43.139:85/jpg/image.jpg",
+    "Latitude": 5.403102E+07,
+    "Longitude": -1634180.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 37,
+    "CamLink": "http://90.206.126.24:1024/mjpg/video.mjpg",
+    "CamImage": "http://90.206.126.24:1024/jpg/image.jpg",
+    "Latitude": 5.237092E+07,
+    "Longitude": -1264170.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 38,
+    "CamLink": "http://92.27.97.13:91/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://92.27.97.13:91/record/current.jpg",
+    "Latitude": 5.441344E+07,
+    "Longitude": -6447430.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 1
+  },
+  {
+    "Id": 39,
+    "CamLink": "http://2.221.155.220:8080/?action=stream",
+    "CamImage": "http://2.221.155.220:8080/?action=snapshot",
+    "Latitude": 5.356672E+07,
+    "Longitude": -461940.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 40,
+    "CamLink": "http://77.98.38.218:8080/cam_1.cgi",
+    "CamImage": "http://77.98.38.218:8080/cam_1.cgi",
+    "Latitude": 5.248142E+07,
+    "Longitude": -1899830.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 41,
+    "CamLink": "http://82.31.37.94:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://82.31.37.94:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.457623E+07,
+    "Longitude": -1234830.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 42,
+    "CamLink": "http://2.217.197.80:80/mjpg/video.mjpg",
+    "CamImage": "http://2.217.197.80:80/jpg/image.jpg",
+    "Latitude": 5.047151E+07,
+    "Longitude": -4724300.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 43,
+    "CamLink": "http://31.22.41.30:80/mjpg/video.mjpg",
+    "CamImage": "http://31.22.41.30:80/jpg/image.jpg",
+    "Latitude": 5.082838E+07,
+    "Longitude": -139470.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 44,
+    "CamLink": "http://85.95.109.23:8081/mjpg/video.mjpg",
+    "CamImage": "http://85.95.109.23:8081/jpg/image.jpg",
+    "Latitude": 5.241667E+07,
+    "Longitude": 750000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 45,
+    "CamLink": "http://84.66.210.17:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://84.66.210.17:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 46,
+    "CamLink": "http://157.231.186.134:8001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://157.231.186.134:8001/record/current.jpg",
+    "Latitude": 5.140033E+07,
+    "Longitude": -1320590.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 47,
+    "CamLink": "http://84.92.225.96:8081/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://84.92.225.96:8081/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.3792E+07,
+    "Longitude": -1754000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 48,
+    "CamLink": "http://81.150.156.75:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://81.150.156.75:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.106931E+07,
+    "Longitude": -1795690.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 49,
+    "CamLink": "http://92.0.23.174:90/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://92.0.23.174:90/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 50,
+    "CamLink": "http://176.227.143.112:83/jpg/image.jpg?COUNTER",
+    "CamImage": "http://176.227.143.112:83/jpg/image.jpg?COUNTER",
+    "Latitude": 5.341058E+07,
+    "Longitude": -2977940.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 51,
+    "CamLink": "http://81.143.218.196:8082/jpg/image.jpg?COUNTER",
+    "CamImage": "http://81.143.218.196:8082/jpg/image.jpg?COUNTER",
+    "Latitude": 5.145625E+07,
+    "Longitude": -971130.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 52,
+    "CamLink": "http://193.178.54.58:8081/jpg/image.jpg?COUNTER",
+    "CamImage": "http://193.178.54.58:8081/jpg/image.jpg?COUNTER",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 53,
+    "CamLink": "http://193.178.54.58:8082/jpg/image.jpg?COUNTER",
+    "CamImage": "http://193.178.54.58:8082/jpg/image.jpg?COUNTER",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 54,
+    "CamLink": "http://81.143.197.119:8082/jpg/image.jpg?COUNTER",
+    "CamImage": "http://81.143.197.119:8082/jpg/image.jpg?COUNTER",
+    "Latitude": 5.20122E+07,
+    "Longitude": -1762680.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 55,
+    "CamLink": "http://81.143.197.119:8081/jpg/image.jpg?COUNTER",
+    "CamImage": "http://81.143.197.119:8081/jpg/image.jpg?COUNTER",
+    "Latitude": 5.20122E+07,
+    "Longitude": -1762680.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 56,
+    "CamLink": "http://5.175.70.21:8081/mjpg/video.mjpg",
+    "CamImage": "http://5.175.70.21:8081/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 57,
+    "CamLink": "http://84.9.135.70:80/oneshotimage1?COUNTER",
+    "CamImage": "http://84.9.135.70:80/oneshotimage1?COUNTER",
+    "Latitude": 5.248142E+07,
+    "Longitude": -1899830.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 58,
+    "CamLink": "http://80.6.181.7:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://80.6.181.7:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.239857E+07,
+    "Longitude": 258110.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 59,
+    "CamLink": "http://80.192.153.178:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://80.192.153.178:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.248142E+07,
+    "Longitude": -1899830.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 60,
+    "CamLink": "http://80.192.153.178:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://80.192.153.178:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.248142E+07,
+    "Longitude": -1899830.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 61,
+    "CamLink": "http://82.8.90.104:91/mjpg/video.mjpg",
+    "CamImage": "http://82.8.90.104:91/jpg/image.jpg",
+    "Latitude": 5.364904E+07,
+    "Longitude": -1784160.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 62,
+    "CamLink": "http://81.149.102.115:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://81.149.102.115:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.218446E+07,
+    "Longitude": -687590.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 63,
+    "CamLink": "http://81.105.78.77:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://81.105.78.77:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 64,
+    "CamLink": "http://80.235.214.77:8080/?action=stream",
+    "CamImage": "http://80.235.214.77:8080/?action=snapshot",
+    "Latitude": 5.145625E+07,
+    "Longitude": -971130.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 65,
+    "CamLink": "http://82.71.13.178:8080/mjpg/video.mjpg",
+    "CamImage": "http://82.71.13.178:8080/jpg/image.jpg",
+    "Latitude": 5.252714E+07,
+    "Longitude": 387830.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 66,
+    "CamLink": "http://86.24.142.156:8080/?action=stream",
+    "CamImage": "http://86.24.142.156:8080/?action=snapshot",
+    "Latitude": 5.356539E+07,
+    "Longitude": -75530.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 67,
+    "CamLink": "http://79.78.10.131:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://79.78.10.131:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.103333E+07,
+    "Longitude": -4233330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 68,
+    "CamLink": "http://92.26.83.115:82/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://92.26.83.115:82/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.276667E+07,
+    "Longitude": -1200000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 69,
+    "CamLink": "http://88.98.213.211:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://88.98.213.211:82/record/current.jpg",
+    "Latitude": 5.218446E+07,
+    "Longitude": -687590.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 70,
+    "CamLink": "http://92.27.10.17:85/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://92.27.10.17:85/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.49981E+07,
+    "Longitude": -7309340.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 0
+  },
+  {
+    "Id": 71,
+    "CamLink": "http://82.25.9.11:82/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://82.25.9.11:82/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.29536E+07,
+    "Longitude": -1150470.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 72,
+    "CamLink": "http://88.83.120.159:80/mjpg/video.mjpg",
+    "CamImage": "http://88.83.120.159:80/jpg/image.jpg",
+    "Latitude": 5.150971E+07,
+    "Longitude": -1600.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 73,
+    "CamLink": "http://212.22.67.106:81/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://212.22.67.106:81/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.079509E+07,
+    "Longitude": -1129020.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 74,
+    "CamLink": "http://82.18.185.84:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://82.18.185.84:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.356667E+07,
+    "Longitude": -650000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 75,
+    "CamLink": "http://86.2.2.75:8090/jpg/image.jpg?COUNTER",
+    "CamImage": "http://86.2.2.75:8090/jpg/image.jpg?COUNTER",
+    "Latitude": 5.213459E+07,
+    "Longitude": -466320.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 76,
+    "CamLink": "http://82.28.53.28:91/mjpg/video.mjpg",
+    "CamImage": "http://82.28.53.28:91/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 77,
+    "CamLink": "http://88.98.213.211:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://88.98.213.211:81/record/current.jpg",
+    "Latitude": 5.218446E+07,
+    "Longitude": -687590.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 78,
+    "CamLink": "http://88.98.213.211:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://88.98.213.211:80/record/current.jpg",
+    "Latitude": 5.218446E+07,
+    "Longitude": -687590.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 79,
+    "CamLink": "http://51.148.135.15:8001/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://51.148.135.15:8001/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 80,
+    "CamLink": "http://86.13.36.118:8080/?action=stream",
+    "CamImage": "http://86.13.36.118:8080/?action=snapshot",
+    "Latitude": 5.296667E+07,
+    "Longitude": -1183330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 81,
+    "CamLink": "http://80.229.138.129:8080/?action=stream",
+    "CamImage": "http://80.229.138.129:8080/?action=snapshot",
+    "Latitude": 5.290877E+07,
+    "Longitude": 1279910.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 82,
+    "CamLink": "http://82.8.186.133:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://82.8.186.133:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.26386E+07,
+    "Longitude": -1131690.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 83,
+    "CamLink": "http://82.37.32.120:80/mjpeg.cgi",
+    "CamImage": "http://82.37.32.120:80/image.jpg",
+    "Latitude": 5.155797E+07,
+    "Longitude": -1781160.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 84,
+    "CamLink": "http://51.148.131.41:82/mjpg/video.mjpg",
+    "CamImage": "http://51.148.131.41:82/jpg/image.jpg",
+    "Latitude": 5.155306E+07,
+    "Longitude": -302300.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 85,
+    "CamLink": "http://80.0.143.83:8081/mjpg/video.mjpg",
+    "CamImage": "http://80.0.143.83:8081/jpg/image.jpg",
+    "Latitude": 5.257364E+07,
+    "Longitude": -247770.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 86,
+    "CamLink": "http://87.101.96.73:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://87.101.96.73:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 87,
+    "CamLink": "http://82.16.53.52:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://82.16.53.52:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.151988E+07,
+    "Longitude": -94460.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 88,
+    "CamLink": "http://91.85.216.39:8082/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://91.85.216.39:8082/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.485E+07,
+    "Longitude": -5816670.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 0
+  },
+  {
+    "Id": 89,
+    "CamLink": "http://82.17.161.31:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://82.17.161.31:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.357236E+07,
+    "Longitude": -2693160.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 90,
+    "CamLink": "http://82.24.122.27:8080/?action=stream",
+    "CamImage": "http://82.24.122.27:8080/?action=snapshot",
+    "Latitude": 5.124677E+07,
+    "Longitude": 606820.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 91,
+    "CamLink": "http://82.26.40.205:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://82.26.40.205:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.338297E+07,
+    "Longitude": -1465900.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 92,
+    "CamLink": "http://81.99.17.199:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://81.99.17.199:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.225E+07,
+    "Longitude": -883330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 93,
+    "CamLink": "http://79.79.50.189:81/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://79.79.50.189:81/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 94,
+    "CamLink": "http://80.193.36.146:80/cam_1.cgi",
+    "CamImage": "http://80.193.36.146:80/cam_1.cgi",
+    "Latitude": 5.173333E+07,
+    "Longitude": -2366670.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 95,
+    "CamLink": "http://217.181.153.115:80/mjpg/video.mjpg",
+    "CamImage": "http://217.181.153.115:80/jpg/image.jpg",
+    "Latitude": 5.167109E+07,
+    "Longitude": -1282780.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 96,
+    "CamLink": "http://51.148.181.87:1024/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://51.148.181.87:1024/record/current.jpg",
+    "Latitude": 5.361766E+07,
+    "Longitude": -2155200.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 97,
+    "CamLink": "http://176.24.27.81:8888/mjpg/video.mjpg",
+    "CamImage": "http://176.24.27.81:8888/jpg/image.jpg",
+    "Latitude": 5.140606E+07,
+    "Longitude": -413700.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 98,
+    "CamLink": "http://81.134.57.69:8084/mjpg/video.mjpg",
+    "CamImage": "http://81.134.57.69:8084/jpg/image.jpg",
+    "Latitude": 5.127904E+07,
+    "Longitude": 1079920.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 99,
+    "CamLink": "http://81.99.30.66:81/mjpg/video.mjpg",
+    "CamImage": "http://81.99.30.66:81/jpg/image.jpg",
+    "Latitude": 5.29536E+07,
+    "Longitude": -1150470.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 100,
+    "CamLink": "http://77.99.187.34:8080/?action=stream",
+    "CamImage": "http://77.99.187.34:8080/?action=snapshot",
+    "Latitude": 5.19E+07,
+    "Longitude": -2083330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 101,
+    "CamLink": "http://62.232.149.34:8090/mjpg/video.mjpg",
+    "CamImage": "http://62.232.149.34:8090/jpg/image.jpg",
+    "Latitude": 5.29536E+07,
+    "Longitude": -1150470.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 102,
+    "CamLink": "http://77.103.172.17:8080/mjpg/video.mjpg",
+    "CamImage": "http://77.103.172.17:8080/jpg/image.jpg",
+    "Latitude": 5.501646E+07,
+    "Longitude": -1449250.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 103,
+    "CamLink": "http://185.147.91.21:8082/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://185.147.91.21:8082/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.145523E+07,
+    "Longitude": -2596650.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 104,
+    "CamLink": "http://81.149.112.18:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://81.149.112.18:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.338297E+07,
+    "Longitude": -1465900.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 105,
+    "CamLink": "http://81.111.63.4:8082/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "CamImage": "http://81.111.63.4:8082/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
+    "Latitude": 5.079899E+07,
+    "Longitude": -1091250.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 106,
+    "CamLink": "http://89.240.88.221:80/mjpg/video.mjpg",
+    "CamImage": "http://89.240.88.221:80/jpg/image.jpg",
+    "Latitude": 5.155306E+07,
+    "Longitude": -302300.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 107,
+    "CamLink": "http://51.219.119.174:90/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://51.219.119.174:90/record/current.jpg",
+    "Latitude": 5.361766E+07,
+    "Longitude": -2155200.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 108,
+    "CamLink": "http://51.219.119.174:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://51.219.119.174:82/record/current.jpg",
+    "Latitude": 5.361766E+07,
+    "Longitude": -2155200.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 109,
+    "CamLink": "http://83.146.55.174:86/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://83.146.55.174:86/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 110,
+    "CamLink": "http://81.150.179.156:8081/image/Index?time=0",
+    "CamImage": "http://81.150.179.156:8081/image/Index?time=0",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 111,
+    "CamLink": "http://213.123.193.142:80/mjpg/video.mjpg",
+    "CamImage": "http://213.123.193.142:80/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 112,
+    "CamLink": "http://84.9.135.53:80/oneshotimage1?COUNTER",
+    "CamImage": "http://84.9.135.53:80/oneshotimage1?COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 113,
+    "CamLink": "http://51.52.116.27:1024/mjpg/video.mjpg",
+    "CamImage": "http://51.52.116.27:1024/jpg/image.jpg",
+    "Latitude": 5.364779E+07,
+    "Longitude": -3006480.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 114,
+    "CamLink": "http://84.92.108.204:84/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://84.92.108.204:84/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.218446E+07,
+    "Longitude": -687590.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 115,
+    "CamLink": "http://212.139.127.182:8080/mjpg/video.mjpg",
+    "CamImage": "http://212.139.127.182:8080/jpg/image.jpg",
+    "Latitude": 5.262783E+07,
+    "Longitude": 1298340.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 116,
+    "CamLink": "http://176.35.217.143:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://176.35.217.143:80/record/current.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 117,
+    "CamLink": "http://185.61.91.54:60001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://185.61.91.54:60001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.262783E+07,
+    "Longitude": 1298340.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 118,
+    "CamLink": "http://81.150.78.54:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://81.150.78.54:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.185E+07,
+    "Longitude": -2266670.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 119,
+    "CamLink": "http://37.157.51.30:80/mjpg/video.mjpg",
+    "CamImage": "http://37.157.51.30:80/jpg/image.jpg",
+    "Latitude": 5.262783E+07,
+    "Longitude": 1298340.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 120,
+    "CamLink": "http://217.181.189.201:80/mjpg/video.mjpg",
+    "CamImage": "http://217.181.189.201:80/jpg/image.jpg",
+    "Latitude": 5.167109E+07,
+    "Longitude": -1282780.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 121,
+    "CamLink": "http://80.229.23.184:8200/img/video.mjpeg",
+    "CamImage": "http://80.229.23.184:8200/img/video.mjpeg",
+    "Latitude": 5.004682E+07,
+    "Longitude": -5244210.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 122,
+    "CamLink": "http://84.19.247.165:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://84.19.247.165:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.166667E+07,
+    "Longitude": -3133330.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  },
+  {
+    "Id": 123,
+    "CamLink": "http://92.27.160.150:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://92.27.160.150:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 124,
+    "CamLink": "http://87.75.106.150:8080/mjpg/video.mjpg",
+    "CamImage": "http://87.75.106.150:8080/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 125,
+    "CamLink": "http://84.9.164.137:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://84.9.164.137:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 126,
+    "CamLink": "http://82.69.86.56:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://82.69.86.56:80/record/current.jpg",
+    "Latitude": 5.197018E+07,
+    "Longitude": -279890.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 127,
+    "CamLink": "http://81.130.128.59:8200/mjpg/video.mjpg",
+    "CamImage": "http://81.130.128.59:8200/jpg/image.jpg",
+    "Latitude": 5.145625E+07,
+    "Longitude": -971130.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 128,
+    "CamLink": "http://81.174.128.10:8080/?action=stream",
+    "CamImage": "http://81.174.128.10:8080/?action=snapshot",
+    "Latitude": 5.338297E+07,
+    "Longitude": -1465900.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 129,
+    "CamLink": "http://81.174.128.10:8090/?action=stream",
+    "CamImage": "http://81.174.128.10:8090/?action=snapshot",
+    "Latitude": 5.338297E+07,
+    "Longitude": -1465900.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 130,
+    "CamLink": "http://81.187.169.214:80/mjpg/video.mjpg",
+    "CamImage": "http://81.187.169.214:80/jpg/image.jpg",
+    "Latitude": 5.163928E+07,
+    "Longitude": -472950.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 131,
+    "CamLink": "http://5.152.168.182:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://5.152.168.182:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 132,
+    "CamLink": "http://81.150.77.48:8090/tmpfs/auto.jpg?COUNTER",
+    "CamImage": "http://81.150.77.48:8090/tmpfs/auto.jpg?COUNTER",
+    "Latitude": 5.185E+07,
+    "Longitude": -2266670.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 133,
+    "CamLink": "http://176.35.124.16:1024/mjpg/video.mjpg",
+    "CamImage": "http://176.35.124.16:1024/jpg/image.jpg",
+    "Latitude": 5.341058E+07,
+    "Longitude": -2977940.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 134,
+    "CamLink": "http://79.79.10.8:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://79.79.10.8:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.123862E+07,
+    "Longitude": -2997800.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 135,
+    "CamLink": "http://81.187.169.216:80/mjpg/video.mjpg",
+    "CamImage": "http://81.187.169.216:80/jpg/image.jpg",
+    "Latitude": 5.163928E+07,
+    "Longitude": -472950.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 136,
+    "CamLink": "http://81.187.169.215:80/mjpg/video.mjpg",
+    "CamImage": "http://81.187.169.215:80/jpg/image.jpg",
+    "Latitude": 5.163928E+07,
+    "Longitude": -472950.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 137,
+    "CamLink": "http://93.189.4.179:8080/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://93.189.4.179:8080/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 138,
+    "CamLink": "http://212.159.103.164:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://212.159.103.164:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.3792E+07,
+    "Longitude": -1754000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 139,
+    "CamLink": "http://84.252.208.68:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://84.252.208.68:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 5.155797E+07,
+    "Longitude": -1781160.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 140,
+    "CamLink": "http://81.143.203.215:83/mjpg/video.mjpg",
+    "CamImage": "http://81.143.203.215:83/jpg/image.jpg",
+    "Latitude": 5.155797E+07,
+    "Longitude": -1781160.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 141,
+    "CamLink": "http://195.166.148.199:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://195.166.148.199:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 5.645426E+07,
+    "Longitude": -5387640.0,
+    "CountryCode": "gb",
+    "Region": "Scotland",
+    "CamType": 0
+  },
+  {
+    "Id": 142,
+    "CamLink": "http://167.98.130.231:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://167.98.130.231:8080/record/current.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 143,
+    "CamLink": "http://51.219.143.198:80/mjpg/video.mjpg",
+    "CamImage": "http://51.219.143.198:80/jpg/image.jpg",
+    "Latitude": 5.361766E+07,
+    "Longitude": -2155200.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 144,
+    "CamLink": "http://88.98.198.166:86/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://88.98.198.166:86/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 145,
+    "CamLink": "http://81.133.233.117:8080/cam_1.cgi",
+    "CamImage": "http://81.133.233.117:8080/cam_1.cgi",
+    "Latitude": 5.082838E+07,
+    "Longitude": -139470.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 146,
+    "CamLink": "http://77.44.99.100:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://77.44.99.100:8082/record/current.jpg",
+    "Latitude": 5.096667E+07,
+    "Longitude": -1350000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 147,
+    "CamLink": "http://92.207.119.213:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://92.207.119.213:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 148,
+    "CamLink": "http://51.148.120.8:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://51.148.120.8:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.218446E+07,
+    "Longitude": -687590.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 149,
+    "CamLink": "http://82.152.44.252:81/mjpg/video.mjpg",
+    "CamImage": "http://82.152.44.252:81/jpg/image.jpg",
+    "Latitude": 5.396144E+07,
+    "Longitude": -2016760.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 150,
+    "CamLink": "http://92.207.200.232:82/GetData.cgi?CH=1",
+    "CamImage": "http://92.207.200.232:82/GetImage.cgi?CH=0",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 151,
+    "CamLink": "http://92.207.200.224:82/GetData.cgi?CH=1",
+    "CamImage": "http://92.207.200.224:82/GetImage.cgi?CH=0",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 152,
+    "CamLink": "http://92.207.200.228:82/GetData.cgi?CH=1",
+    "CamImage": "http://92.207.200.228:82/GetImage.cgi?CH=0",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 153,
+    "CamLink": "http://92.207.200.218:82/GetData.cgi?CH=1",
+    "CamImage": "http://92.207.200.218:82/GetImage.cgi?CH=0",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 154,
+    "CamLink": "http://92.207.200.226:82/GetData.cgi?CH=1",
+    "CamImage": "http://92.207.200.226:82/GetImage.cgi?CH=0",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 155,
+    "CamLink": "http://212.159.68.12:8084/GetData.cgi?CH=1",
+    "CamImage": "http://212.159.68.12:8084/GetImage.cgi?CH=0",
+    "Latitude": 5.265914E+07,
+    "Longitude": 1209700.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 156,
+    "CamLink": "http://82.69.244.134:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://82.69.244.134:8080/record/current.jpg",
+    "Latitude": 5.361766E+07,
+    "Longitude": -2155200.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 157,
+    "CamLink": "http://212.56.90.208:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.56.90.208:82/record/current.jpg",
+    "Latitude": 5.08E+07,
+    "Longitude": -1150000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 158,
+    "CamLink": "http://81.149.103.34:50003/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://81.149.103.34:50003/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.46E+07,
+    "Longitude": -7300000.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 0
+  },
+  {
+    "Id": 159,
+    "CamLink": "http://89.145.222.232:80/mjpg/video.mjpg",
+    "CamImage": "http://89.145.222.232:80/jpg/image.jpg",
+    "Latitude": 5.450364E+07,
+    "Longitude": -1357930.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 160,
+    "CamLink": "http://81.143.203.215:80/mjpg/video.mjpg",
+    "CamImage": "http://81.143.203.215:80/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 161,
+    "CamLink": "http://81.143.203.215:81/mjpg/video.mjpg",
+    "CamImage": "http://81.143.203.215:81/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 162,
+    "CamLink": "http://81.187.169.213:80/mjpg/video.mjpg",
+    "CamImage": "http://81.187.169.213:80/jpg/image.jpg",
+    "Latitude": 5.3E+07,
+    "Longitude": -1133330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 163,
+    "CamLink": "http://81.187.169.212:80/mjpg/video.mjpg",
+    "CamImage": "http://81.187.169.212:80/jpg/image.jpg",
+    "Latitude": 5.3E+07,
+    "Longitude": -1133330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 164,
+    "CamLink": "http://81.187.169.211:80/mjpg/video.mjpg",
+    "CamImage": "http://81.187.169.211:80/jpg/image.jpg",
+    "Latitude": 5.3E+07,
+    "Longitude": -1133330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 165,
+    "CamLink": "http://212.159.22.184:80/mjpg/video.mjpg",
+    "CamImage": "http://212.159.22.184:80/jpg/image.jpg",
+    "Latitude": 5.893809E+07,
+    "Longitude": -3131080.0,
+    "CountryCode": "gb",
+    "Region": "Scotland",
+    "CamType": 1
+  },
+  {
+    "Id": 166,
+    "CamLink": "http://87.81.141.178:83/mjpg/video.mjpg",
+    "CamImage": "http://87.81.141.178:83/jpg/image.jpg",
+    "Latitude": 5.158333E+07,
+    "Longitude": -1750000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 167,
+    "CamLink": "http://217.41.1.34:5000/mjpg/video.mjpg",
+    "CamImage": "http://217.41.1.34:5000/jpg/image.jpg",
+    "Latitude": 5.205682E+07,
+    "Longitude": -852810.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 168,
+    "CamLink": "http://81.150.43.28:80/mjpg/video.mjpg",
+    "CamImage": "http://81.150.43.28:80/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 169,
+    "CamLink": "http://81.150.43.28:81/mjpg/video.mjpg",
+    "CamImage": "http://81.150.43.28:81/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 170,
+    "CamLink": "http://82.32.220.244:86/mjpg/video.mjpg",
+    "CamImage": "http://82.32.220.244:86/jpg/image.jpg",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 171,
+    "CamLink": "http://212.57.225.180:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.57.225.180:80/record/current.jpg",
+    "Latitude": 5.315109E+07,
+    "Longitude": -2231640.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 172,
+    "CamLink": "http://94.30.51.166:50000/mjpg/video.mjpg",
+    "CamImage": "http://94.30.51.166:50000/jpg/image.jpg",
+    "Latitude": 5.271009E+07,
+    "Longitude": -2752080.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 173,
+    "CamLink": "http://213.123.205.76:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.123.205.76:80/record/current.jpg",
+    "Latitude": 5.189587E+07,
+    "Longitude": 822800.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 174,
+    "CamLink": "http://217.41.66.17:84/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://217.41.66.17:84/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.232729E+07,
+    "Longitude": 596270.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 175,
+    "CamLink": "http://80.229.42.13:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://80.229.42.13:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.116667E+07,
+    "Longitude": -183330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 176,
+    "CamLink": "http://81.133.153.1:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://81.133.153.1:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.085966E+07,
+    "Longitude": -1324320.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 177,
+    "CamLink": "http://194.164.144.234:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://194.164.144.234:80/record/current.jpg",
+    "Latitude": 5.22942E+07,
+    "Longitude": 1084170.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 178,
+    "CamLink": "http://217.41.42.231:1024/mjpg/video.mjpg",
+    "CamImage": "http://217.41.42.231:1024/jpg/image.jpg",
+    "Latitude": 5.39182E+07,
+    "Longitude": -2966330.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 179,
+    "CamLink": "http://217.33.17.229:80/mjpg/video.mjpg",
+    "CamImage": "http://217.33.17.229:80/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 180,
+    "CamLink": "http://145.255.240.202:8080/?action=stream",
+    "CamImage": "http://145.255.240.202:8080/?action=snapshot",
+    "Latitude": 5.343975E+07,
+    "Longitude": -1465200.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 181,
+    "CamLink": "http://145.255.240.202:8081/?action=stream",
+    "CamImage": "http://145.255.240.202:8081/?action=snapshot",
+    "Latitude": 5.343975E+07,
+    "Longitude": -1465200.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 182,
+    "CamLink": "http://213.123.183.194:84/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://213.123.183.194:84/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.461667E+07,
+    "Longitude": -5933330.0,
+    "CountryCode": "gb",
+    "Region": "Northern Ireland",
+    "CamType": 0
+  },
+  {
+    "Id": 183,
+    "CamLink": "http://87.81.247.180:86/mjpg/video.mjpg",
+    "CamImage": "http://87.81.247.180:86/jpg/image.jpg",
+    "Latitude": 5.326667E+07,
+    "Longitude": -1350000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 184,
+    "CamLink": "http://81.134.11.145:80/mjpg/video.mjpg",
+    "CamImage": "http://81.134.11.145:80/jpg/image.jpg",
+    "Latitude": 5.138472E+07,
+    "Longitude": -2910280.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 185,
+    "CamLink": "http://86.17.9.72:80/mjpg/video.mjpg",
+    "CamImage": "http://86.17.9.72:80/jpg/image.jpg",
+    "Latitude": 5.1765E+07,
+    "Longitude": -4931670.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 1
+  },
+  {
+    "Id": 186,
+    "CamLink": "http://195.70.66.134:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://195.70.66.134:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.145625E+07,
+    "Longitude": -971130.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 187,
+    "CamLink": "http://81.136.152.133:80/mjpg/video.mjpg",
+    "CamImage": "http://81.136.152.133:80/jpg/image.jpg",
+    "Latitude": 5.136667E+07,
+    "Longitude": -450000.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 188,
+    "CamLink": "http://81.149.36.95:8083/mjpg/video.mjpg",
+    "CamImage": "http://81.149.36.95:8083/jpg/image.jpg",
+    "Latitude": 5.29536E+07,
+    "Longitude": -1150470.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 189,
+    "CamLink": "http://213.123.192.190:80/mjpg/video.mjpg",
+    "CamImage": "http://213.123.192.190:80/jpg/image.jpg",
+    "Latitude": 5.334312E+07,
+    "Longitude": -1775060.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 190,
+    "CamLink": "http://217.35.130.113:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://217.35.130.113:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 191,
+    "CamLink": "http://87.246.89.198:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://87.246.89.198:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.166667E+07,
+    "Longitude": -3133330.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  },
+  {
+    "Id": 192,
+    "CamLink": "http://217.33.116.74:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://217.33.116.74:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 193,
+    "CamLink": "http://81.133.171.70:81/mjpg/video.mjpg",
+    "CamImage": "http://81.133.171.70:81/jpg/image.jpg",
+    "Latitude": 5.07236E+07,
+    "Longitude": -3527510.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 194,
+    "CamLink": "http://87.246.117.149:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://87.246.117.149:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.166667E+07,
+    "Longitude": -3133330.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  },
+  {
+    "Id": 195,
+    "CamLink": "http://79.78.158.102:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://79.78.158.102:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.292277E+07,
+    "Longitude": -1476630.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 196,
+    "CamLink": "http://81.174.131.208:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://81.174.131.208:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.348095E+07,
+    "Longitude": -2237430.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 197,
+    "CamLink": "http://81.140.29.28:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://81.140.29.28:81/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.158774E+07,
+    "Longitude": -2998350.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  },
+  {
+    "Id": 198,
+    "CamLink": "http://81.140.29.28:82/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://81.140.29.28:82/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.158774E+07,
+    "Longitude": -2998350.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  },
+  {
+    "Id": 199,
+    "CamLink": "http://81.140.29.28:84/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://81.140.29.28:84/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.158774E+07,
+    "Longitude": -2998350.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  },
+  {
+    "Id": 200,
+    "CamLink": "http://81.140.29.28:83/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://81.140.29.28:83/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.158774E+07,
+    "Longitude": -2998350.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  },
+  {
+    "Id": 201,
+    "CamLink": "http://81.140.29.28:85/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://81.140.29.28:85/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.158774E+07,
+    "Longitude": -2998350.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  },
+  {
+    "Id": 202,
+    "CamLink": "http://217.36.68.34:80/mjpg/video.mjpg",
+    "CamImage": "http://217.36.68.34:80/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 203,
+    "CamLink": "http://84.92.94.35:81/mjpg/video.mjpg",
+    "CamImage": "http://84.92.94.35:81/jpg/image.jpg",
+    "Latitude": 5.085519E+07,
+    "Longitude": 572920.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 204,
+    "CamLink": "http://81.136.218.217:60001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://81.136.218.217:60001/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 205,
+    "CamLink": "http://213.152.51.214:86/oneshotimage1?COUNTER",
+    "CamImage": "http://213.152.51.214:86/oneshotimage1?COUNTER",
+    "Latitude": 5.07236E+07,
+    "Longitude": -3527510.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 206,
+    "CamLink": "http://194.66.34.9:80/mjpg/video.mjpg",
+    "CamImage": "http://194.66.34.9:80/jpg/image.jpg",
+    "Latitude": 5.151475E+07,
+    "Longitude": -146080.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 207,
+    "CamLink": "http://80.242.36.69:80/mjpg/video.mjpg",
+    "CamImage": "http://80.242.36.69:80/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "-",
+    "CamType": 1
+  },
+  {
+    "Id": 208,
+    "CamLink": "http://84.92.37.207:82/mjpg/video.mjpg",
+    "CamImage": "http://84.92.37.207:82/jpg/image.jpg",
+    "Latitude": 5.338297E+07,
+    "Longitude": -1465900.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 209,
+    "CamLink": "http://192.171.163.3:80/mjpg/video.mjpg",
+    "CamImage": "http://192.171.163.3:80/jpg/image.jpg",
+    "Latitude": 5.155797E+07,
+    "Longitude": -1781160.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 210,
+    "CamLink": "http://82.153.141.73:80/mjpg/video.mjpg",
+    "CamImage": "http://82.153.141.73:80/jpg/image.jpg",
+    "Latitude": 5.07236E+07,
+    "Longitude": -3527510.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 211,
+    "CamLink": "http://81.149.37.127:80/mjpg/video.mjpg",
+    "CamImage": "http://81.149.37.127:80/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 212,
+    "CamLink": "http://213.123.122.163:1024/mjpg/video.mjpg",
+    "CamImage": "http://213.123.122.163:1024/jpg/image.jpg",
+    "Latitude": 5.241426E+07,
+    "Longitude": -1780940.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 213,
+    "CamLink": "http://81.133.30.194:82/mjpg/video.mjpg",
+    "CamImage": "http://81.133.30.194:82/jpg/image.jpg",
+    "Latitude": 5.330393E+07,
+    "Longitude": -2237730.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 214,
+    "CamLink": "http://213.152.51.214:81/oneshotimage1?COUNTER",
+    "CamImage": "http://213.152.51.214:81/oneshotimage1?COUNTER",
+    "Latitude": 5.07236E+07,
+    "Longitude": -3527510.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 215,
+    "CamLink": "http://87.81.247.180:89/mjpg/video.mjpg",
+    "CamImage": "http://87.81.247.180:89/jpg/image.jpg",
+    "Latitude": 5.150853E+07,
+    "Longitude": -125740.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 216,
+    "CamLink": "http://81.133.171.70:82/mjpg/video.mjpg",
+    "CamImage": "http://81.133.171.70:82/jpg/image.jpg",
+    "Latitude": 5.859271E+07,
+    "Longitude": -3525940.0,
+    "CountryCode": "gb",
+    "Region": "Scotland",
+    "CamType": 1
+  },
+  {
+    "Id": 217,
+    "CamLink": "http://137.205.164.245:80/mjpg/video.mjpg",
+    "CamImage": "http://137.205.164.245:80/jpg/image.jpg",
+    "Latitude": 5.240656E+07,
+    "Longitude": -1512170.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 218,
+    "CamLink": "http://84.92.80.192:8081/mjpg/video.mjpg",
+    "CamImage": "http://84.92.80.192:8081/jpg/image.jpg",
+    "Latitude": 5.338297E+07,
+    "Longitude": -1465900.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 219,
+    "CamLink": "http://91.84.17.157:80/mjpg/video.mjpg",
+    "CamImage": "http://91.84.17.157:80/jpg/image.jpg",
+    "Latitude": 5.07236E+07,
+    "Longitude": -3527510.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 1
+  },
+  {
+    "Id": 220,
+    "CamLink": "http://217.41.66.17:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://217.41.66.17:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.085519E+07,
+    "Longitude": 572920.0,
+    "CountryCode": "gb",
+    "Region": "England",
+    "CamType": 0
+  },
+  {
+    "Id": 221,
+    "CamLink": "http://87.246.117.141:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://87.246.117.141:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.166667E+07,
+    "Longitude": -3133330.0,
+    "CountryCode": "gb",
+    "Region": "Wales",
+    "CamType": 0
+  }
+]
