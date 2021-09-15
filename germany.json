@@ -1,0 +1,6312 @@
+[
+  {
+    "Id": 0,
+    "CamLink": "http://91.39.197.43:80/GetData.cgi?CH=1",
+    "CamImage": "http://91.39.197.43:80/GetImage.cgi?CH=0",
+    "Latitude": 4.900472E+07,
+    "Longitude": 8385830.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 1,
+    "CamLink": "http://79.242.144.46:3000/GetData.cgi?CH=1",
+    "CamImage": "http://79.242.144.46:3000/GetImage.cgi?CH=0",
+    "Latitude": 4.836472E+07,
+    "Longitude": 1.090114E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 2,
+    "CamLink": "http://79.244.84.32:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://79.244.84.32:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.077664E+07,
+    "Longitude": 6083420.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 3,
+    "CamLink": "http://47.70.64.44:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://47.70.64.44:80/record/current.jpg",
+    "Latitude": 4.845599E+07,
+    "Longitude": 1.027695E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 4,
+    "CamLink": "http://93.211.171.37:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.211.171.37:8080/record/current.jpg",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 5,
+    "CamLink": "http://37.83.177.43:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://37.83.177.43:81/record/current.jpg",
+    "Latitude": 4.888126E+07,
+    "Longitude": 1.257385E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 6,
+    "CamLink": "http://37.83.177.43:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://37.83.177.43:82/record/current.jpg",
+    "Latitude": 4.888126E+07,
+    "Longitude": 1.257385E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 7,
+    "CamLink": "http://188.194.76.43:8083/?action=stream",
+    "CamImage": "http://188.194.76.43:8083/?action=snapshot",
+    "Latitude": 4.964907E+07,
+    "Longitude": 1.240631E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 8,
+    "CamLink": "http://130.83.89.40:8080/?action=stream",
+    "CamImage": "http://130.83.89.40:8080/?action=snapshot",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 9,
+    "CamLink": "http://84.156.63.40:80/?action=stream",
+    "CamImage": "http://84.156.63.40:80/?action=snapshot",
+    "Latitude": 5.044482E+07,
+    "Longitude": 6813330.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 10,
+    "CamLink": "http://5.147.135.43:8080/?action=stream",
+    "CamImage": "http://5.147.135.43:8080/?action=snapshot",
+    "Latitude": 5.196236E+07,
+    "Longitude": 7625710.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 11,
+    "CamLink": "http://5.147.135.43:8081/?action=stream",
+    "CamImage": "http://5.147.135.43:8081/?action=snapshot",
+    "Latitude": 5.196236E+07,
+    "Longitude": 7625710.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 12,
+    "CamLink": "http://217.233.122.32:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://217.233.122.32:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 4.830603E+07,
+    "Longitude": 1.190686E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 13,
+    "CamLink": "http://79.230.89.36:82/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://79.230.89.36:82/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.148165E+07,
+    "Longitude": 7216480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 14,
+    "CamLink": "http://77.21.51.43:8001/mjpg/video.mjpg",
+    "CamImage": "http://77.21.51.43:8001/jpg/image.jpg",
+    "Latitude": 5.226594E+07,
+    "Longitude": 1.052673E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 15,
+    "CamLink": "http://91.41.136.46:80/mjpg/video.mjpg",
+    "CamImage": "http://91.41.136.46:80/jpg/image.jpg",
+    "Latitude": 4.901693E+07,
+    "Longitude": 1.323765E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 16,
+    "CamLink": "http://84.162.67.33:80/mjpg/video.mjpg",
+    "CamImage": "http://84.162.67.33:80/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 17,
+    "CamLink": "http://88.73.88.37:80/mjpg/video.mjpg",
+    "CamImage": "http://88.73.88.37:80/jpg/image.jpg",
+    "Latitude": 5.105089E+07,
+    "Longitude": 1.373832E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 18,
+    "CamLink": "http://79.222.231.19:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://79.222.231.19:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 19,
+    "CamLink": "http://217.247.1.23:3000/GetData.cgi?CH=1",
+    "CamImage": "http://217.247.1.23:3000/GetImage.cgi?CH=0",
+    "Latitude": 5.22E+07,
+    "Longitude": 1.346667E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 20,
+    "CamLink": "http://84.136.96.30:9000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.136.96.30:9000/record/current.jpg",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 21,
+    "CamLink": "http://93.235.91.30:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.235.91.30:8081/record/current.jpg",
+    "Latitude": 5.060528E+07,
+    "Longitude": 8702380.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 22,
+    "CamLink": "http://91.62.184.22:80/mjpg/video.mjpg",
+    "CamImage": "http://91.62.184.22:80/jpg/image.jpg",
+    "Latitude": 4.771336E+07,
+    "Longitude": 1.030555E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 23,
+    "CamLink": "http://79.240.7.21:85/mjpg/video.mjpg",
+    "CamImage": "http://79.240.7.21:85/jpg/image.jpg",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 24,
+    "CamLink": "http://84.138.81.11:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.138.81.11:8083/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 25,
+    "CamLink": "http://37.81.68.11:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://37.81.68.11:80/record/current.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 26,
+    "CamLink": "http://84.186.35.20:8080/?action=stream",
+    "CamImage": "http://84.186.35.20:8080/?action=snapshot",
+    "Latitude": 4.920512E+07,
+    "Longitude": 1.266836E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 27,
+    "CamLink": "http://91.23.34.19:91/mjpg/video.mjpg",
+    "CamImage": "http://91.23.34.19:91/jpg/image.jpg",
+    "Latitude": 4.9417E+07,
+    "Longitude": 8717000.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 28,
+    "CamLink": "http://31.17.47.22:80/mjpg/video.mjpg",
+    "CamImage": "http://31.17.47.22:80/jpg/image.jpg",
+    "Latitude": 5.450382E+07,
+    "Longitude": 9102560.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 29,
+    "CamLink": "http://217.255.193.221:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://217.255.193.221:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.000443E+07,
+    "Longitude": 1.208593E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 30,
+    "CamLink": "http://95.208.125.220:2000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://95.208.125.220:2000/record/current.jpg",
+    "Latitude": 4.883333E+07,
+    "Longitude": 1.006667E+07,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 31,
+    "CamLink": "http://46.88.148.220:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.88.148.220:80/record/current.jpg",
+    "Latitude": 4.909626E+07,
+    "Longitude": 1.075232E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 32,
+    "CamLink": "http://217.227.140.221:8083/mjpg/video.mjpg",
+    "CamImage": "http://217.227.140.221:8083/jpg/image.jpg",
+    "Latitude": 5.15E+07,
+    "Longitude": 1.2E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 33,
+    "CamLink": "http://217.227.140.221:8081/mjpg/video.mjpg",
+    "CamImage": "http://217.227.140.221:8081/jpg/image.jpg",
+    "Latitude": 5.15E+07,
+    "Longitude": 1.2E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 34,
+    "CamLink": "http://84.189.229.206:88/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.189.229.206:88/record/current.jpg",
+    "Latitude": 5.322698E+07,
+    "Longitude": 8795280.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 35,
+    "CamLink": "http://84.189.229.206:90/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.189.229.206:90/record/current.jpg",
+    "Latitude": 5.322698E+07,
+    "Longitude": 8795280.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 36,
+    "CamLink": "http://46.84.240.213:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.84.240.213:80/record/current.jpg",
+    "Latitude": 4.994806E+07,
+    "Longitude": 1.157833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 37,
+    "CamLink": "http://84.189.229.206:89/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.189.229.206:89/record/current.jpg",
+    "Latitude": 5.322698E+07,
+    "Longitude": 8795280.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 38,
+    "CamLink": "http://79.251.241.213:8080/?action=stream",
+    "CamImage": "http://79.251.241.213:8080/?action=snapshot",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 39,
+    "CamLink": "http://217.230.38.202:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.230.38.202:8080/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 40,
+    "CamLink": "http://84.133.116.204:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.133.116.204:80/record/current.jpg",
+    "Latitude": 4.998419E+07,
+    "Longitude": 8279100.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 41,
+    "CamLink": "http://87.148.30.211:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.148.30.211:81/record/current.jpg",
+    "Latitude": 5.060528E+07,
+    "Longitude": 8702380.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 42,
+    "CamLink": "http://87.148.30.211:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.148.30.211:82/record/current.jpg",
+    "Latitude": 5.060528E+07,
+    "Longitude": 8702380.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 43,
+    "CamLink": "http://92.210.47.179:8080/?action=stream",
+    "CamImage": "http://92.210.47.179:8080/?action=snapshot",
+    "Latitude": 5.44378E+07,
+    "Longitude": 1.119352E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 44,
+    "CamLink": "http://91.55.56.213:80/img/video.mjpeg",
+    "CamImage": "http://91.55.56.213:80/img/video.mjpeg",
+    "Latitude": 4.87028E+07,
+    "Longitude": 9654880.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 45,
+    "CamLink": "http://37.201.52.191:8080/mjpg/video.mjpg",
+    "CamImage": "http://37.201.52.191:8080/jpg/image.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 46,
+    "CamLink": "http://84.146.86.198:86/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://84.146.86.198:86/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.005706E+07,
+    "Longitude": 7756580.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 0
+  },
+  {
+    "Id": 47,
+    "CamLink": "http://79.201.113.196:80/GetData.cgi?CH=1",
+    "CamImage": "http://79.201.113.196:80/GetImage.cgi?CH=0",
+    "Latitude": 5.168765E+07,
+    "Longitude": 1.011086E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 48,
+    "CamLink": "http://188.195.168.198:83/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://188.195.168.198:83/record/current.jpg",
+    "Latitude": 4.832333E+07,
+    "Longitude": 1.160122E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 49,
+    "CamLink": "http://87.133.201.194:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.133.201.194:8084/record/current.jpg",
+    "Latitude": 5.232333E+07,
+    "Longitude": 9203110.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 50,
+    "CamLink": "http://46.128.106.196:84/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.128.106.196:84/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 51,
+    "CamLink": "http://46.128.106.196:85/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.128.106.196:85/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 52,
+    "CamLink": "http://91.58.28.177:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://91.58.28.177:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.304565E+07,
+    "Longitude": 1.060258E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 53,
+    "CamLink": "http://91.60.29.175:81/mjpg/video.mjpg",
+    "CamImage": "http://91.60.29.175:81/jpg/image.jpg",
+    "Latitude": 5.100328E+07,
+    "Longitude": 1.148689E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 54,
+    "CamLink": "http://79.245.96.200:80/mjpg/video.mjpg",
+    "CamImage": "http://79.245.96.200:80/jpg/image.jpg",
+    "Latitude": 5.054322E+07,
+    "Longitude": 7111300.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 55,
+    "CamLink": "http://217.225.254.174:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.225.254.174:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 56,
+    "CamLink": "http://87.161.37.189:83/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.161.37.189:83/record/current.jpg",
+    "Latitude": 5.105089E+07,
+    "Longitude": 1.373832E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 57,
+    "CamLink": "http://87.161.37.189:84/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.161.37.189:84/record/current.jpg",
+    "Latitude": 5.105089E+07,
+    "Longitude": 1.373832E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 58,
+    "CamLink": "http://87.161.37.189:85/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.161.37.189:85/record/current.jpg",
+    "Latitude": 5.105089E+07,
+    "Longitude": 1.373832E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 59,
+    "CamLink": "http://88.134.0.194:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://88.134.0.194:82/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 60,
+    "CamLink": "http://87.161.37.189:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.161.37.189:82/record/current.jpg",
+    "Latitude": 5.105089E+07,
+    "Longitude": 1.373832E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 61,
+    "CamLink": "http://5.100.138.183:8080/?action=stream",
+    "CamImage": "http://5.100.138.183:8080/?action=snapshot",
+    "Latitude": 4.950649E+07,
+    "Longitude": 8211860.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 62,
+    "CamLink": "http://84.163.79.189:8888/mjpg/video.mjpg",
+    "CamImage": "http://84.163.79.189:8888/jpg/image.jpg",
+    "Latitude": 4.998419E+07,
+    "Longitude": 8279100.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 63,
+    "CamLink": "http://84.130.247.184:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.130.247.184:80/record/current.jpg",
+    "Latitude": 4.758332E+07,
+    "Longitude": 1.063164E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 64,
+    "CamLink": "http://79.245.94.183:8001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://79.245.94.183:8001/record/current.jpg",
+    "Latitude": 4.991667E+07,
+    "Longitude": 7016670.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 65,
+    "CamLink": "http://84.187.77.167:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://84.187.77.167:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.846666E+07,
+    "Longitude": 1.04286E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 66,
+    "CamLink": "http://84.187.77.167:88/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://84.187.77.167:88/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.846666E+07,
+    "Longitude": 1.04286E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 67,
+    "CamLink": "http://217.84.123.164:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.84.123.164:80/record/current.jpg",
+    "Latitude": 4.79959E+07,
+    "Longitude": 7852220.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 68,
+    "CamLink": "http://91.89.117.105:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://91.89.117.105:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.87028E+07,
+    "Longitude": 9654880.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 69,
+    "CamLink": "http://84.158.237.171:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://84.158.237.171:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 70,
+    "CamLink": "http://188.210.49.163:8080/?action=stream",
+    "CamImage": "http://188.210.49.163:8080/?action=snapshot",
+    "Latitude": 5.048333E+07,
+    "Longitude": 7600000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 71,
+    "CamLink": "http://217.93.161.153:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.93.161.153:80/record/current.jpg",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 72,
+    "CamLink": "http://31.19.166.158:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://31.19.166.158:8080/record/current.jpg",
+    "Latitude": 5.40887E+07,
+    "Longitude": 1.214049E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpommern",
+    "CamType": 1
+  },
+  {
+    "Id": 73,
+    "CamLink": "http://84.154.58.149:8000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.154.58.149:8000/record/current.jpg",
+    "Latitude": 5.373333E+07,
+    "Longitude": 7366670.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 74,
+    "CamLink": "http://91.16.235.152:50000/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://91.16.235.152:50000/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 75,
+    "CamLink": "http://91.60.184.155:82/mjpg/video.mjpg",
+    "CamImage": "http://91.60.184.155:82/jpg/image.jpg",
+    "Latitude": 5.153542E+07,
+    "Longitude": 1.024123E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 76,
+    "CamLink": "http://188.97.62.140:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://188.97.62.140:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.060528E+07,
+    "Longitude": 8702380.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 77,
+    "CamLink": "http://91.89.238.134:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://91.89.238.134:8082/record/current.jpg",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 78,
+    "CamLink": "http://91.18.217.146:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://91.18.217.146:8083/record/current.jpg",
+    "Latitude": 5.07237E+07,
+    "Longitude": 1.000366E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 79,
+    "CamLink": "http://80.138.95.125:86/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.138.95.125:86/record/current.jpg",
+    "Latitude": 4.884086E+07,
+    "Longitude": 1.296068E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 80,
+    "CamLink": "http://87.128.46.144:91/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.46.144:91/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 81,
+    "CamLink": "http://93.208.142.134:8001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.208.142.134:8001/record/current.jpg",
+    "Latitude": 4.79959E+07,
+    "Longitude": 7852220.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 82,
+    "CamLink": "http://217.251.110.127:91/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.251.110.127:91/record/current.jpg",
+    "Latitude": 4.786825E+07,
+    "Longitude": 1.264335E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 83,
+    "CamLink": "http://93.208.228.142:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.208.228.142:8083/record/current.jpg",
+    "Latitude": 4.962472E+07,
+    "Longitude": 9662780.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 84,
+    "CamLink": "http://87.166.25.141:6001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.166.25.141:6001/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 85,
+    "CamLink": "http://91.45.63.125:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://91.45.63.125:8080/record/current.jpg",
+    "Latitude": 5.175769E+07,
+    "Longitude": 1.432888E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 86,
+    "CamLink": "http://77.21.131.133:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://77.21.131.133:81/record/current.jpg",
+    "Latitude": 5.083333E+07,
+    "Longitude": 1.291667E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 87,
+    "CamLink": "http://217.249.30.141:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://217.249.30.141:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 4.908001E+07,
+    "Longitude": 1.288566E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 88,
+    "CamLink": "http://79.218.255.103:8000/jpg/image.jpg?COUNTER",
+    "CamImage": "http://79.218.255.103:8000/jpg/image.jpg?COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 89,
+    "CamLink": "http://91.37.186.131:8080/?action=stream",
+    "CamImage": "http://91.37.186.131:8080/?action=snapshot",
+    "Latitude": 5.093333E+07,
+    "Longitude": 6950000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 90,
+    "CamLink": "http://87.156.64.99:83/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://87.156.64.99:83/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.885992E+07,
+    "Longitude": 1.350563E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 91,
+    "CamLink": "http://185.109.147.121:80/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://185.109.147.121:80/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.31099E+07,
+    "Longitude": 9144080.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 92,
+    "CamLink": "http://79.226.255.99:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://79.226.255.99:80/record/current.jpg",
+    "Latitude": 5.296572E+07,
+    "Longitude": 1.056111E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 93,
+    "CamLink": "http://84.135.18.100:81/mjpg/video.mjpg",
+    "CamImage": "http://84.135.18.100:81/jpg/image.jpg",
+    "Latitude": 5.196236E+07,
+    "Longitude": 7625710.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 94,
+    "CamLink": "http://88.78.141.108:80/mjpg/video.mjpg",
+    "CamImage": "http://88.78.141.108:80/jpg/image.jpg",
+    "Latitude": 5.420272E+07,
+    "Longitude": 1.230168E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpommern",
+    "CamType": 1
+  },
+  {
+    "Id": 95,
+    "CamLink": "http://185.110.126.98:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.110.126.98:8080/record/current.jpg",
+    "Latitude": 4.776667E+07,
+    "Longitude": 1.265E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 96,
+    "CamLink": "http://79.227.203.83:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://79.227.203.83:80/record/current.jpg",
+    "Latitude": 5.060528E+07,
+    "Longitude": 8702380.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 97,
+    "CamLink": "http://79.240.161.93:8080/?action=stream",
+    "CamImage": "http://79.240.161.93:8080/?action=snapshot",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 98,
+    "CamLink": "http://46.85.196.92:8084/mjpg/video.mjpg",
+    "CamImage": "http://46.85.196.92:8084/jpg/image.jpg",
+    "Latitude": 4.77466E+07,
+    "Longitude": 1.184069E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 99,
+    "CamLink": "http://212.58.76.91:80/mjpg/video.mjpg",
+    "CamImage": "http://212.58.76.91:80/jpg/image.jpg",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 100,
+    "CamLink": "http://46.85.196.92:8082/mjpg/video.mjpg",
+    "CamImage": "http://46.85.196.92:8082/jpg/image.jpg",
+    "Latitude": 4.77466E+07,
+    "Longitude": 1.184069E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 101,
+    "CamLink": "http://46.85.196.92:8081/mjpg/video.mjpg",
+    "CamImage": "http://46.85.196.92:8081/jpg/image.jpg",
+    "Latitude": 4.77466E+07,
+    "Longitude": 1.184069E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 102,
+    "CamLink": "http://77.20.12.85:83/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://77.20.12.85:83/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.292342E+07,
+    "Longitude": 9234910.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 103,
+    "CamLink": "http://80.153.205.89:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.153.205.89:81/record/current.jpg",
+    "Latitude": 4.836472E+07,
+    "Longitude": 1.090114E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 104,
+    "CamLink": "http://176.10.52.81:8081/mjpg/video.mjpg",
+    "CamImage": "http://176.10.52.81:8081/jpg/image.jpg",
+    "Latitude": 5.09787E+07,
+    "Longitude": 1.103283E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 105,
+    "CamLink": "http://79.235.202.75:80/GetData.cgi?CH=1",
+    "CamImage": "http://79.235.202.75:80/GetImage.cgi?CH=0",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 106,
+    "CamLink": "http://91.5.254.79:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://91.5.254.79:81/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 107,
+    "CamLink": "http://80.144.220.30:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.144.220.30:8083/record/current.jpg",
+    "Latitude": 5.048333E+07,
+    "Longitude": 7600000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 108,
+    "CamLink": "http://80.144.220.30:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.144.220.30:8081/record/current.jpg",
+    "Latitude": 5.048333E+07,
+    "Longitude": 7600000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 109,
+    "CamLink": "http://91.184.162.79:9000/?action=stream",
+    "CamImage": "http://91.184.162.79:9000/?action=snapshot",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 110,
+    "CamLink": "http://84.142.196.76:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://84.142.196.76:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 4.786667E+07,
+    "Longitude": 1.241667E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 111,
+    "CamLink": "http://87.175.247.49:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.175.247.49:80/record/current.jpg",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 112,
+    "CamLink": "http://178.202.129.45:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://178.202.129.45:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.125182E+07,
+    "Longitude": 9407470.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 113,
+    "CamLink": "http://93.239.13.46:89/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.239.13.46:89/record/current.jpg",
+    "Latitude": 5.062388E+07,
+    "Longitude": 9508150.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 114,
+    "CamLink": "http://91.59.237.27:8081/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://91.59.237.27:8081/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 115,
+    "CamLink": "http://84.143.98.45:80/GetData.cgi?CH=1",
+    "CamImage": "http://84.143.98.45:80/GetImage.cgi?CH=0",
+    "Latitude": 5.272632E+07,
+    "Longitude": 8285980.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 116,
+    "CamLink": "http://84.179.95.45:90/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.179.95.45:90/record/current.jpg",
+    "Latitude": 5.488026E+07,
+    "Longitude": 8293910.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 117,
+    "CamLink": "http://146.52.87.39:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://146.52.87.39:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.09787E+07,
+    "Longitude": 1.103283E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 0
+  },
+  {
+    "Id": 118,
+    "CamLink": "http://84.154.57.26:8000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.154.57.26:8000/record/current.jpg",
+    "Latitude": 5.358469E+07,
+    "Longitude": 7315680.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 119,
+    "CamLink": "http://46.5.59.27:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.5.59.27:8080/record/current.jpg",
+    "Latitude": 4.839841E+07,
+    "Longitude": 9991550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 120,
+    "CamLink": "http://79.211.123.16:8080/?action=stream",
+    "CamImage": "http://79.211.123.16:8080/?action=snapshot",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 121,
+    "CamLink": "http://2.201.90.28:81/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "CamImage": "http://2.201.90.28:81/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "Latitude": 5.143247E+07,
+    "Longitude": 6765160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 122,
+    "CamLink": "http://46.89.222.8:80/mjpg/video.mjpg",
+    "CamImage": "http://46.89.222.8:80/jpg/image.jpg",
+    "Latitude": 5.223779E+07,
+    "Longitude": 8919010.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 123,
+    "CamLink": "http://31.17.243.221:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://31.17.243.221:80/record/current.jpg",
+    "Latitude": 5.478431E+07,
+    "Longitude": 9439610.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 124,
+    "CamLink": "http://79.202.228.207:80/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://79.202.228.207:80/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.044482E+07,
+    "Longitude": 6813330.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 125,
+    "CamLink": "http://79.202.228.207:85/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://79.202.228.207:85/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.044482E+07,
+    "Longitude": 6813330.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 126,
+    "CamLink": "http://2.201.167.211:8080/mjpg/video.mjpg",
+    "CamImage": "http://2.201.167.211:8080/jpg/image.jpg",
+    "Latitude": 5.291429E+07,
+    "Longitude": 1.2188E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 127,
+    "CamLink": "http://46.165.138.192:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.165.138.192:80/record/current.jpg",
+    "Latitude": 5.048333E+07,
+    "Longitude": 7600000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 128,
+    "CamLink": "http://87.133.54.199:8082/mjpg/video.mjpg",
+    "CamImage": "http://87.133.54.199:8082/jpg/image.jpg",
+    "Latitude": 5.246952E+07,
+    "Longitude": 9199570.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 129,
+    "CamLink": "http://185.152.246.196:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.246.196:8080/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 130,
+    "CamLink": "http://217.6.110.178:3000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.6.110.178:3000/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 131,
+    "CamLink": "http://193.25.171.167:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://193.25.171.167:80/record/current.jpg",
+    "Latitude": 5.099233E+07,
+    "Longitude": 9533120.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 132,
+    "CamLink": "http://84.159.243.180:9000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.159.243.180:9000/record/current.jpg",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 133,
+    "CamLink": "http://85.216.7.156:82/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://85.216.7.156:82/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 134,
+    "CamLink": "http://85.216.7.156:81/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://85.216.7.156:81/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 135,
+    "CamLink": "http://94.114.151.144:8001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://94.114.151.144:8001/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 136,
+    "CamLink": "http://93.208.228.142:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.208.228.142:8084/record/current.jpg",
+    "Latitude": 4.962472E+07,
+    "Longitude": 9662780.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 137,
+    "CamLink": "http://91.1.17.146:80/mjpg/video.mjpg",
+    "CamImage": "http://91.1.17.146:80/jpg/image.jpg",
+    "Latitude": 4.876508E+07,
+    "Longitude": 1.142372E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 138,
+    "CamLink": "http://91.184.168.145:81/mjpg/video.mjpg",
+    "CamImage": "http://91.184.168.145:81/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 139,
+    "CamLink": "http://91.184.168.145:80/mjpg/video.mjpg",
+    "CamImage": "http://91.184.168.145:80/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 140,
+    "CamLink": "http://91.184.168.145:83/mjpg/video.mjpg",
+    "CamImage": "http://91.184.168.145:83/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 141,
+    "CamLink": "http://217.86.173.126:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.86.173.126:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 142,
+    "CamLink": "http://93.206.164.107:10000/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://93.206.164.107:10000/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 5.415035E+07,
+    "Longitude": 1.175994E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpommern",
+    "CamType": 0
+  },
+  {
+    "Id": 143,
+    "CamLink": "http://92.200.133.88:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://92.200.133.88:50000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.077664E+07,
+    "Longitude": 6083420.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 144,
+    "CamLink": "http://91.66.150.87:83/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://91.66.150.87:83/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.973763E+07,
+    "Longitude": 8066110.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 145,
+    "CamLink": "http://91.66.150.87:84/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://91.66.150.87:84/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.973763E+07,
+    "Longitude": 8066110.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 146,
+    "CamLink": "http://91.66.150.87:82/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://91.66.150.87:82/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.973763E+07,
+    "Longitude": 8066110.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 147,
+    "CamLink": "http://91.66.150.87:86/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://91.66.150.87:86/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.973763E+07,
+    "Longitude": 8066110.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 148,
+    "CamLink": "http://87.160.160.60:8082/mjpg/video.mjpg",
+    "CamImage": "http://87.160.160.60:8082/jpg/image.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 149,
+    "CamLink": "http://80.144.220.30:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.144.220.30:8082/record/current.jpg",
+    "Latitude": 5.048333E+07,
+    "Longitude": 7600000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 150,
+    "CamLink": "http://84.130.158.48:10000/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://84.130.158.48:10000/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 5.153933E+07,
+    "Longitude": 9934060.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 151,
+    "CamLink": "http://93.203.154.27:5000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.203.154.27:5000/record/current.jpg",
+    "Latitude": 5.399304E+07,
+    "Longitude": 1.112383E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpommern",
+    "CamType": 1
+  },
+  {
+    "Id": 152,
+    "CamLink": "http://79.237.23.27:80/mjpg/video.mjpg",
+    "CamImage": "http://79.237.23.27:80/jpg/image.jpg",
+    "Latitude": 5.093333E+07,
+    "Longitude": 6950000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 153,
+    "CamLink": "http://31.17.72.26:8001/mjpg/video.mjpg",
+    "CamImage": "http://31.17.72.26:8001/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 154,
+    "CamLink": "http://78.43.204.9:85/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.43.204.9:85/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.9417E+07,
+    "Longitude": 8717000.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 155,
+    "CamLink": "http://77.21.152.4:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://77.21.152.4:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.18E+07,
+    "Longitude": 1.033333E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 156,
+    "CamLink": "http://149.172.106.8:8080/?action=stream",
+    "CamImage": "http://149.172.106.8:8080/?action=snapshot",
+    "Latitude": 4.765689E+07,
+    "Longitude": 9475540.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 157,
+    "CamLink": "http://80.149.163.212:80/mjpg/video.mjpg",
+    "CamImage": "http://80.149.163.212:80/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 158,
+    "CamLink": "http://188.194.204.191:10000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://188.194.204.191:10000/record/current.jpg",
+    "Latitude": 4.978778E+07,
+    "Longitude": 9936110.0,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 159,
+    "CamLink": "http://84.180.168.201:84/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.180.168.201:84/record/current.jpg",
+    "Latitude": 5.009545E+07,
+    "Longitude": 1.079831E+07,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 160,
+    "CamLink": "http://84.180.168.201:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.180.168.201:80/record/current.jpg",
+    "Latitude": 5.009545E+07,
+    "Longitude": 1.079831E+07,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 161,
+    "CamLink": "http://5.100.32.171:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://5.100.32.171:80/record/current.jpg",
+    "Latitude": 5.025937E+07,
+    "Longitude": 1.096384E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 162,
+    "CamLink": "http://217.91.63.145:88/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.91.63.145:88/record/current.jpg",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 163,
+    "CamLink": "http://91.67.18.153:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://91.67.18.153:8081/record/current.jpg",
+    "Latitude": 4.940521E+07,
+    "Longitude": 7437240.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 164,
+    "CamLink": "http://87.128.61.124:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.61.124:8081/record/current.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 165,
+    "CamLink": "http://87.128.61.124:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.61.124:8084/record/current.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 166,
+    "CamLink": "http://87.128.61.124:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.61.124:8083/record/current.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 167,
+    "CamLink": "http://62.158.65.113:81/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://62.158.65.113:81/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.950649E+07,
+    "Longitude": 8211860.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 0
+  },
+  {
+    "Id": 168,
+    "CamLink": "http://217.24.48.122:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.24.48.122:80/record/current.jpg",
+    "Latitude": 5.025937E+07,
+    "Longitude": 1.096384E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 169,
+    "CamLink": "http://93.237.48.117:88/mjpg/video.mjpg",
+    "CamImage": "http://93.237.48.117:88/jpg/image.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 170,
+    "CamLink": "http://94.114.57.107:81/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://94.114.57.107:81/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 171,
+    "CamLink": "http://79.227.164.92:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://79.227.164.92:8080/record/current.jpg",
+    "Latitude": 5.184382E+07,
+    "Longitude": 6857740.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 172,
+    "CamLink": "http://31.17.79.83:81/mjpg/video.mjpg",
+    "CamImage": "http://31.17.79.83:81/jpg/image.jpg",
+    "Latitude": 5.386893E+07,
+    "Longitude": 1.068729E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 173,
+    "CamLink": "http://91.184.166.89:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://91.184.166.89:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 0
+  },
+  {
+    "Id": 174,
+    "CamLink": "http://94.114.153.72:81/image/Index?time=0",
+    "CamImage": "http://94.114.153.72:81/image/Index?time=0",
+    "Latitude": 5.008258E+07,
+    "Longitude": 8249320.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 175,
+    "CamLink": "http://79.203.157.66:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://79.203.157.66:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 52007084.0,
+    "Longitude": 8545701.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 176,
+    "CamLink": "http://80.144.220.30:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.144.220.30:8084/record/current.jpg",
+    "Latitude": 5.048333E+07,
+    "Longitude": 7600000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 177,
+    "CamLink": "http://94.100.65.25:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://94.100.65.25:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.143787E+07,
+    "Longitude": 1.423549E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 178,
+    "CamLink": "http://91.67.233.218:82/GetData.cgi?CH=1",
+    "CamImage": "http://91.67.233.218:82/GetImage.cgi?CH=0",
+    "Latitude": 4.998419E+07,
+    "Longitude": 8279100.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 179,
+    "CamLink": "http://84.46.71.17:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.46.71.17:8084/record/current.jpg",
+    "Latitude": 5.36859E+07,
+    "Longitude": 9980410.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 180,
+    "CamLink": "http://77.23.102.13:8080/mjpg/video.mjpg",
+    "CamImage": "http://77.23.102.13:8080/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 181,
+    "CamLink": "http://185.152.246.195:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.246.195:8080/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 182,
+    "CamLink": "http://178.203.165.119:8082/mjpg/video.mjpg",
+    "CamImage": "http://178.203.165.119:8082/jpg/image.jpg",
+    "Latitude": 5.145657E+07,
+    "Longitude": 7012280.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 183,
+    "CamLink": "http://88.65.13.87:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://88.65.13.87:8084/record/current.jpg",
+    "Latitude": 5.145047E+07,
+    "Longitude": 7970260.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 184,
+    "CamLink": "http://91.13.216.71:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://91.13.216.71:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.752937E+07,
+    "Longitude": 1.111795E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 185,
+    "CamLink": "http://77.20.227.33:8082/?action=stream",
+    "CamImage": "http://77.20.227.33:8082/?action=snapshot",
+    "Latitude": 5.258596E+07,
+    "Longitude": 8214180.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 186,
+    "CamLink": "http://178.201.115.22:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://178.201.115.22:81/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 187,
+    "CamLink": "http://91.67.143.211:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://91.67.143.211:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.920145E+07,
+    "Longitude": 7605290.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 0
+  },
+  {
+    "Id": 188,
+    "CamLink": "http://185.152.246.187:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.246.187:8080/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 189,
+    "CamLink": "http://217.249.111.175:83/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.249.111.175:83/record/current.jpg",
+    "Latitude": 5.450382E+07,
+    "Longitude": 9102560.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 190,
+    "CamLink": "http://84.151.230.164:83/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.151.230.164:83/record/current.jpg",
+    "Latitude": 52007084.0,
+    "Longitude": 8545701.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 191,
+    "CamLink": "http://176.199.187.99:86/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://176.199.187.99:86/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 192,
+    "CamLink": "http://37.247.81.113:88/mjpg/video.mjpg",
+    "CamImage": "http://37.247.81.113:88/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 193,
+    "CamLink": "http://37.247.81.113:83/mjpg/video.mjpg",
+    "CamImage": "http://37.247.81.113:83/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 194,
+    "CamLink": "http://37.247.81.113:85/mjpg/video.mjpg",
+    "CamImage": "http://37.247.81.113:85/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 195,
+    "CamLink": "http://37.247.81.113:86/mjpg/video.mjpg",
+    "CamImage": "http://37.247.81.113:86/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 196,
+    "CamLink": "http://37.247.81.113:81/mjpg/video.mjpg",
+    "CamImage": "http://37.247.81.113:81/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 197,
+    "CamLink": "http://80.74.49.58:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.74.49.58:8081/record/current.jpg",
+    "Latitude": 4.931366E+07,
+    "Longitude": 6751540.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 198,
+    "CamLink": "http://93.242.156.23:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.242.156.23:80/record/current.jpg",
+    "Latitude": 5.15E+07,
+    "Longitude": 1.2E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 199,
+    "CamLink": "http://88.152.175.203:80/img/video.mjpeg",
+    "CamImage": "http://88.152.175.203:80/img/video.mjpeg",
+    "Latitude": 5.030967E+07,
+    "Longitude": 6729780.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 200,
+    "CamLink": "http://191.101.165.194:8888/out.jpg?q=30&id=0.1317044913727916&r=COUNTER",
+    "CamImage": "http://191.101.165.194:8888/out.jpg?q=30&id=0.1317044913727916&r=COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 201,
+    "CamLink": "http://139.18.68.208:80/mjpg/video.mjpg",
+    "CamImage": "http://139.18.68.208:80/jpg/image.jpg",
+    "Latitude": 5.133962E+07,
+    "Longitude": 1.237129E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 202,
+    "CamLink": "http://5.231.155.190:8001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://5.231.155.190:8001/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 203,
+    "CamLink": "http://37.247.81.113:91/mjpg/video.mjpg",
+    "CamImage": "http://37.247.81.113:91/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 204,
+    "CamLink": "http://37.247.81.113:89/mjpg/video.mjpg",
+    "CamImage": "http://37.247.81.113:89/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 205,
+    "CamLink": "http://91.67.146.126:8080/?action=stream",
+    "CamImage": "http://91.67.146.126:8080/?action=snapshot",
+    "Latitude": 4.98414E+07,
+    "Longitude": 7867130.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 206,
+    "CamLink": "http://91.67.146.126:8084/?action=stream",
+    "CamImage": "http://91.67.146.126:8084/?action=snapshot",
+    "Latitude": 4.98414E+07,
+    "Longitude": 7867130.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 207,
+    "CamLink": "http://87.79.73.117:80/mjpg/video.mjpg",
+    "CamImage": "http://87.79.73.117:80/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 208,
+    "CamLink": "http://93.226.99.184:8001/mjpg/video.mjpg",
+    "CamImage": "http://93.226.99.184:8001/jpg/image.jpg",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 209,
+    "CamLink": "http://77.20.87.150:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://77.20.87.150:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.226594E+07,
+    "Longitude": 1.052673E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 210,
+    "CamLink": "http://37.24.159.150:8082/?action=stream",
+    "CamImage": "http://37.24.159.150:8082/?action=snapshot",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 211,
+    "CamLink": "http://37.24.159.150:8080/?action=stream",
+    "CamImage": "http://37.24.159.150:8080/?action=snapshot",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 212,
+    "CamLink": "http://155.133.206.74:8080/jpg/image.jpg?COUNTER",
+    "CamImage": "http://155.133.206.74:8080/jpg/image.jpg?COUNTER",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "region:",
+    "Region": "",
+    "CamType": 0
+  },
+  {
+    "Id": 213,
+    "CamLink": "http://93.240.54.97:9000/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://93.240.54.97:9000/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 214,
+    "CamLink": "http://185.89.39.70:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.89.39.70:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 215,
+    "CamLink": "http://217.86.194.35:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.86.194.35:8080/record/current.jpg",
+    "Latitude": 5.175257E+07,
+    "Longitude": 1.103988E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 216,
+    "CamLink": "http://87.139.72.47:8081/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://87.139.72.47:8081/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 0
+  },
+  {
+    "Id": 217,
+    "CamLink": "http://77.22.100.19:88/mjpg/video.mjpg",
+    "CamImage": "http://77.22.100.19:88/jpg/image.jpg",
+    "Latitude": 5.237052E+07,
+    "Longitude": 9733220.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 218,
+    "CamLink": "http://77.22.100.19:89/mjpg/video.mjpg",
+    "CamImage": "http://77.22.100.19:89/jpg/image.jpg",
+    "Latitude": 5.237052E+07,
+    "Longitude": 9733220.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 219,
+    "CamLink": "http://77.22.100.19:81/mjpg/video.mjpg",
+    "CamImage": "http://77.22.100.19:81/jpg/image.jpg",
+    "Latitude": 5.237052E+07,
+    "Longitude": 9733220.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 220,
+    "CamLink": "http://77.22.100.19:91/mjpg/video.mjpg",
+    "CamImage": "http://77.22.100.19:91/jpg/image.jpg",
+    "Latitude": 5.237052E+07,
+    "Longitude": 9733220.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 221,
+    "CamLink": "http://185.152.245.17:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.245.17:8080/record/current.jpg",
+    "Latitude": 5.116051E+07,
+    "Longitude": 1.024944E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 222,
+    "CamLink": "http://88.150.99.214:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://88.150.99.214:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 5.212773E+07,
+    "Longitude": 1.162916E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 0
+  },
+  {
+    "Id": 223,
+    "CamLink": "http://80.151.104.202:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.151.104.202:81/record/current.jpg",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 224,
+    "CamLink": "http://130.180.117.177:81/mjpg/video.mjpg",
+    "CamImage": "http://130.180.117.177:81/jpg/image.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 225,
+    "CamLink": "http://156.67.224.173:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://156.67.224.173:80/record/current.jpg",
+    "Latitude": 5.239655E+07,
+    "Longitude": 1.305794E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 226,
+    "CamLink": "http://185.152.246.17:83/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.246.17:83/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 227,
+    "CamLink": "http://134.34.171.108:8080/?action=stream",
+    "CamImage": "http://134.34.171.108:8080/?action=snapshot",
+    "Latitude": 4.766033E+07,
+    "Longitude": 9175820.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 228,
+    "CamLink": "http://87.138.222.78:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://87.138.222.78:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.311068E+07,
+    "Longitude": 1.351911E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 0
+  },
+  {
+    "Id": 229,
+    "CamLink": "http://87.140.50.57:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.140.50.57:82/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 230,
+    "CamLink": "http://80.151.193.213:9200/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.151.193.213:9200/record/current.jpg",
+    "Latitude": 5.325682E+07,
+    "Longitude": 7927370.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 231,
+    "CamLink": "http://62.143.239.141:81/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://62.143.239.141:81/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.030967E+07,
+    "Longitude": 6729780.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 232,
+    "CamLink": "http://37.24.101.118:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://37.24.101.118:80/record/current.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 233,
+    "CamLink": "http://37.247.81.113:84/mjpg/video.mjpg",
+    "CamImage": "http://37.247.81.113:84/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 234,
+    "CamLink": "http://212.101.32.113:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.101.32.113:82/record/current.jpg",
+    "Latitude": 5.125182E+07,
+    "Longitude": 9407470.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 235,
+    "CamLink": "http://185.152.247.15:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.247.15:8080/record/current.jpg",
+    "Latitude": 4.781664E+07,
+    "Longitude": 9061380.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 236,
+    "CamLink": "http://78.43.196.8:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://78.43.196.8:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.858981E+07,
+    "Longitude": 9234780.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 237,
+    "CamLink": "http://78.43.196.8:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://78.43.196.8:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.858981E+07,
+    "Longitude": 9234780.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 238,
+    "CamLink": "http://37.10.110.12:5000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://37.10.110.12:5000/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 239,
+    "CamLink": "http://90.187.161.5:80/mjpg/video.mjpg",
+    "CamImage": "http://90.187.161.5:80/jpg/image.jpg",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 240,
+    "CamLink": "http://149.172.4.213:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://149.172.4.213:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 241,
+    "CamLink": "http://87.128.105.199:88/mjpg/video.mjpg",
+    "CamImage": "http://87.128.105.199:88/jpg/image.jpg",
+    "Latitude": 52007084.0,
+    "Longitude": 8545701.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 242,
+    "CamLink": "http://37.24.87.160:80/GetData.cgi?CH=1",
+    "CamImage": "http://37.24.87.160:80/GetImage.cgi?CH=0",
+    "Latitude": 4.968369E+07,
+    "Longitude": 8618390.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 243,
+    "CamLink": "http://217.91.38.133:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.91.38.133:80/record/current.jpg",
+    "Latitude": 5.245472E+07,
+    "Longitude": 8755440.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 244,
+    "CamLink": "http://87.140.47.98:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.140.47.98:8082/record/current.jpg",
+    "Latitude": 5.243421E+07,
+    "Longitude": 1.098786E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 245,
+    "CamLink": "http://185.62.151.84:8080/?action=stream",
+    "CamImage": "http://185.62.151.84:8080/?action=snapshot",
+    "Latitude": 5.105719E+07,
+    "Longitude": 1.255746E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 246,
+    "CamLink": "http://5.100.32.27:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://5.100.32.27:80/record/current.jpg",
+    "Latitude": 5.025937E+07,
+    "Longitude": 1.096384E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 247,
+    "CamLink": "http://37.24.142.219:85/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://37.24.142.219:85/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 5.145657E+07,
+    "Longitude": 7012280.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 248,
+    "CamLink": "http://134.60.3.216:8080/?action=stream",
+    "CamImage": "http://134.60.3.216:8080/?action=snapshot",
+    "Latitude": 4.839841E+07,
+    "Longitude": 9991550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 249,
+    "CamLink": "http://94.134.122.178:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://94.134.122.178:8083/record/current.jpg",
+    "Latitude": 5.145657E+07,
+    "Longitude": 7012280.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 250,
+    "CamLink": "http://94.134.122.178:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://94.134.122.178:8082/record/current.jpg",
+    "Latitude": 5.145657E+07,
+    "Longitude": 7012280.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 251,
+    "CamLink": "http://213.135.7.181:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.135.7.181:8081/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 252,
+    "CamLink": "http://213.135.7.178:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.135.7.178:8081/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 253,
+    "CamLink": "http://130.180.86.110:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://130.180.86.110:8084/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 254,
+    "CamLink": "http://130.180.86.110:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://130.180.86.110:8082/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 255,
+    "CamLink": "http://130.180.86.110:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://130.180.86.110:8083/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 256,
+    "CamLink": "http://80.153.32.117:8000/mjpg/video.mjpg",
+    "CamImage": "http://80.153.32.117:8000/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 257,
+    "CamLink": "http://176.94.67.92:8080/GetData.cgi?CH=1",
+    "CamImage": "http://176.94.67.92:8080/GetImage.cgi?CH=0",
+    "Latitude": 5.014328E+07,
+    "Longitude": 8571110.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 258,
+    "CamLink": "http://212.51.20.90:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.51.20.90:8080/record/current.jpg",
+    "Latitude": 5.432133E+07,
+    "Longitude": 1.013489E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 259,
+    "CamLink": "http://37.24.94.66:80/mjpg/video.mjpg",
+    "CamImage": "http://37.24.94.66:80/jpg/image.jpg",
+    "Latitude": 52007084.0,
+    "Longitude": 8545701.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 260,
+    "CamLink": "http://217.5.143.52:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://217.5.143.52:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 261,
+    "CamLink": "http://93.241.194.25:8001/GetData.cgi?CH=1",
+    "CamImage": "http://93.241.194.25:8001/GetImage.cgi?CH=0",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 262,
+    "CamLink": "http://85.222.209.215:8082/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://85.222.209.215:8082/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.34E+07,
+    "Longitude": 9966670.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 263,
+    "CamLink": "http://80.153.190.215:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.153.190.215:80/record/current.jpg",
+    "Latitude": 5.280733E+07,
+    "Longitude": 1.401186E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 264,
+    "CamLink": "http://82.135.63.194:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://82.135.63.194:81/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 265,
+    "CamLink": "http://91.137.88.214:80/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://91.137.88.214:80/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 266,
+    "CamLink": "http://81.14.225.198:8888/mjpg/video.mjpg",
+    "CamImage": "http://81.14.225.198:8888/jpg/image.jpg",
+    "Latitude": 5.237052E+07,
+    "Longitude": 9733220.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 267,
+    "CamLink": "http://18.196.112.139:8001/mjpg/video.mjpg",
+    "CamImage": "http://18.196.112.139:8001/jpg/image.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 268,
+    "CamLink": "http://78.42.90.166:84/GetData.cgi?CH=1",
+    "CamImage": "http://78.42.90.166:84/GetImage.cgi?CH=0",
+    "Latitude": 4.9417E+07,
+    "Longitude": 8717000.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 269,
+    "CamLink": "http://92.79.0.181:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://92.79.0.181:8080/record/current.jpg",
+    "Latitude": 5.014328E+07,
+    "Longitude": 8571110.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 270,
+    "CamLink": "http://212.114.165.154:9000/mjpg/video.mjpg",
+    "CamImage": "http://212.114.165.154:9000/jpg/image.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 271,
+    "CamLink": "http://212.114.165.154:80/mjpg/video.mjpg",
+    "CamImage": "http://212.114.165.154:80/jpg/image.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 272,
+    "CamLink": "http://178.203.161.161:81/mjpg/video.mjpg",
+    "CamImage": "http://178.203.161.161:81/jpg/image.jpg",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 273,
+    "CamLink": "http://212.114.222.170:60001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.114.222.170:60001/record/current.jpg",
+    "Latitude": 4.836472E+07,
+    "Longitude": 1.090114E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 274,
+    "CamLink": "http://80.151.137.153:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.151.137.153:80/record/current.jpg",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "region:",
+    "Region": "",
+    "CamType": 1
+  },
+  {
+    "Id": 275,
+    "CamLink": "http://91.211.10.155:81/oneshotimage1?COUNTER",
+    "CamImage": "http://91.211.10.155:81/oneshotimage1?COUNTER",
+    "Latitude": 5.432133E+07,
+    "Longitude": 1.013489E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 0
+  },
+  {
+    "Id": 276,
+    "CamLink": "http://91.211.10.155:83/oneshotimage1?COUNTER",
+    "CamImage": "http://91.211.10.155:83/oneshotimage1?COUNTER",
+    "Latitude": 5.432133E+07,
+    "Longitude": 1.013489E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 0
+  },
+  {
+    "Id": 277,
+    "CamLink": "http://87.139.102.132:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://87.139.102.132:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 278,
+    "CamLink": "http://87.139.102.132:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://87.139.102.132:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 279,
+    "CamLink": "http://87.139.102.132:8084/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://87.139.102.132:8084/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 280,
+    "CamLink": "http://87.139.102.132:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://87.139.102.132:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 281,
+    "CamLink": "http://176.95.184.153:90/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://176.95.184.153:90/record/current.jpg",
+    "Latitude": 5.100328E+07,
+    "Longitude": 1.148689E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 282,
+    "CamLink": "http://80.152.149.140:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.152.149.140:50001/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 283,
+    "CamLink": "http://217.7.204.148:9000/mjpg/video.mjpg",
+    "CamImage": "http://217.7.204.148:9000/jpg/image.jpg",
+    "Latitude": 4.781664E+07,
+    "Longitude": 9061380.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 284,
+    "CamLink": "http://80.88.23.120:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.88.23.120:8080/record/current.jpg",
+    "Latitude": 5.056667E+07,
+    "Longitude": 1.096667E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 285,
+    "CamLink": "http://80.88.23.120:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.88.23.120:80/record/current.jpg",
+    "Latitude": 5.056667E+07,
+    "Longitude": 1.096667E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 286,
+    "CamLink": "http://46.223.210.101:80/GetData.cgi?CH=1",
+    "CamImage": "http://46.223.210.101:80/GetImage.cgi?CH=0",
+    "Latitude": 4.949671E+07,
+    "Longitude": 8479550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 287,
+    "CamLink": "http://217.86.135.27:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.86.135.27:50001/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 288,
+    "CamLink": "http://85.190.176.22:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://85.190.176.22:80/record/current.jpg",
+    "Latitude": 4.939841E+07,
+    "Longitude": 1.117404E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 289,
+    "CamLink": "http://134.255.241.208:9000/mjpg/video.mjpg",
+    "CamImage": "http://134.255.241.208:9000/jpg/image.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 290,
+    "CamLink": "http://80.153.58.187:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.153.58.187:8083/record/current.jpg",
+    "Latitude": 5.188333E+07,
+    "Longitude": 1.29E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 291,
+    "CamLink": "http://213.135.7.180:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.135.7.180:8082/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 292,
+    "CamLink": "http://217.5.234.146:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://217.5.234.146:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 293,
+    "CamLink": "http://109.90.140.141:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://109.90.140.141:80/record/current.jpg",
+    "Latitude": 5.093333E+07,
+    "Longitude": 6950000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 294,
+    "CamLink": "http://93.241.243.144:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.241.243.144:50001/record/current.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 295,
+    "CamLink": "http://87.139.234.144:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.234.144:8081/record/current.jpg",
+    "Latitude": 5.033034E+07,
+    "Longitude": 1.170463E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 296,
+    "CamLink": "http://90.187.44.117:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://90.187.44.117:80/record/current.jpg",
+    "Latitude": 5.212773E+07,
+    "Longitude": 1.162916E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 297,
+    "CamLink": "http://176.94.67.92:80/GetData.cgi?CH=1",
+    "CamImage": "http://176.94.67.92:80/GetImage.cgi?CH=0",
+    "Latitude": 5.014328E+07,
+    "Longitude": 8571110.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 298,
+    "CamLink": "http://109.90.51.91:8084/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://109.90.51.91:8084/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.030967E+07,
+    "Longitude": 6729780.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 0
+  },
+  {
+    "Id": 299,
+    "CamLink": "http://139.6.71.94:8080/?action=stream",
+    "CamImage": "http://139.6.71.94:8080/?action=snapshot",
+    "Latitude": 5.093333E+07,
+    "Longitude": 6950000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 300,
+    "CamLink": "http://80.147.228.89:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.147.228.89:80/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 301,
+    "CamLink": "http://212.23.135.90:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.23.135.90:8080/record/current.jpg",
+    "Latitude": 5.148165E+07,
+    "Longitude": 7216480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 302,
+    "CamLink": "http://77.20.119.82:8080/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://77.20.119.82:8080/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.237052E+07,
+    "Longitude": 9733220.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 303,
+    "CamLink": "http://91.249.130.86:8081/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://91.249.130.86:8081/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 5.273678E+07,
+    "Longitude": 7758090.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 304,
+    "CamLink": "http://185.128.121.78:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://185.128.121.78:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.876508E+07,
+    "Longitude": 1.142372E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 305,
+    "CamLink": "http://80.152.140.75:8001/mjpg/video.mjpg",
+    "CamImage": "http://80.152.140.75:8001/jpg/image.jpg",
+    "Latitude": 5.093333E+07,
+    "Longitude": 6950000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 306,
+    "CamLink": "http://178.26.160.69:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://178.26.160.69:8081/record/current.jpg",
+    "Latitude": 4.740747E+07,
+    "Longitude": 1.016746E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 307,
+    "CamLink": "http://178.26.160.69:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://178.26.160.69:8080/record/current.jpg",
+    "Latitude": 4.740747E+07,
+    "Longitude": 1.016746E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 308,
+    "CamLink": "http://136.36.144.68:8090/?action=stream",
+    "CamImage": "http://136.36.144.68:8090/?action=snapshot",
+    "Latitude": 5.048333E+07,
+    "Longitude": 7600000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 309,
+    "CamLink": "http://93.241.94.62:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://93.241.94.62:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 310,
+    "CamLink": "http://217.73.149.58:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.73.149.58:80/record/current.jpg",
+    "Latitude": 50463276.0,
+    "Longitude": 7661512.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 311,
+    "CamLink": "http://185.127.211.56:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.127.211.56:80/record/current.jpg",
+    "Latitude": 5.437846E+07,
+    "Longitude": 1.369394E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpommern",
+    "CamType": 1
+  },
+  {
+    "Id": 312,
+    "CamLink": "http://46.16.223.35:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.16.223.35:80/record/current.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 313,
+    "CamLink": "http://87.138.168.32:50001/mjpg/video.mjpg",
+    "CamImage": "http://87.138.168.32:50001/jpg/image.jpg",
+    "Latitude": 4.781664E+07,
+    "Longitude": 9061380.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 314,
+    "CamLink": "http://46.189.29.26:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.189.29.26:80/record/current.jpg",
+    "Latitude": 5.450382E+07,
+    "Longitude": 9102560.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 315,
+    "CamLink": "http://212.58.74.23:80/mjpg/video.mjpg",
+    "CamImage": "http://212.58.74.23:80/jpg/image.jpg",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 316,
+    "CamLink": "http://185.152.247.8:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.247.8:8080/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 317,
+    "CamLink": "http://93.241.79.9:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.241.79.9:81/record/current.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 318,
+    "CamLink": "http://217.91.112.4:90/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.91.112.4:90/record/current.jpg",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 319,
+    "CamLink": "http://188.192.8.3:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://188.192.8.3:80/record/current.jpg",
+    "Latitude": 4.826E+07,
+    "Longitude": 1.143402E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 320,
+    "CamLink": "http://83.221.243.221:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://83.221.243.221:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.098949E+07,
+    "Longitude": 1.297818E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 321,
+    "CamLink": "http://24.134.100.193:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://24.134.100.193:80/record/current.jpg",
+    "Latitude": 4.763293E+07,
+    "Longitude": 1.304806E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 322,
+    "CamLink": "http://213.135.7.182:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.135.7.182:8081/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 323,
+    "CamLink": "http://213.135.7.182:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.135.7.182:8082/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 324,
+    "CamLink": "http://93.241.210.173:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.241.210.173:50001/record/current.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 325,
+    "CamLink": "http://87.138.174.163:84/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://87.138.174.163:84/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.969049E+07,
+    "Longitude": 9468230.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 326,
+    "CamLink": "http://109.90.107.157:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://109.90.107.157:80/record/current.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 327,
+    "CamLink": "http://80.147.175.148:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.147.175.148:80/record/current.jpg",
+    "Latitude": 5.255953E+07,
+    "Longitude": 9296130.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 328,
+    "CamLink": "http://217.91.63.145:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.91.63.145:82/record/current.jpg",
+    "Latitude": 5.351703E+07,
+    "Longitude": 1.02488E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 329,
+    "CamLink": "http://87.139.234.144:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.234.144:8083/record/current.jpg",
+    "Latitude": 5.033034E+07,
+    "Longitude": 1.170463E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 330,
+    "CamLink": "http://80.155.54.126:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.155.54.126:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 331,
+    "CamLink": "http://93.240.95.111:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.240.95.111:50001/record/current.jpg",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 332,
+    "CamLink": "http://88.130.211.103:1024/img/video.mjpeg",
+    "CamImage": "http://88.130.211.103:1024/img/video.mjpeg",
+    "Latitude": 4.900472E+07,
+    "Longitude": 8385830.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 333,
+    "CamLink": "http://185.140.255.102:8090/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.140.255.102:8090/record/current.jpg",
+    "Latitude": 5.194349E+07,
+    "Longitude": 7168090.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 334,
+    "CamLink": "http://109.90.51.91:8083/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://109.90.51.91:8083/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.030967E+07,
+    "Longitude": 6729780.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 0
+  },
+  {
+    "Id": 335,
+    "CamLink": "http://109.90.51.91:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://109.90.51.91:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.030967E+07,
+    "Longitude": 6729780.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 0
+  },
+  {
+    "Id": 336,
+    "CamLink": "http://91.249.130.86:8082/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://91.249.130.86:8082/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 5.273678E+07,
+    "Longitude": 7758090.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 337,
+    "CamLink": "http://5.231.136.69:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://5.231.136.69:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 338,
+    "CamLink": "http://89.187.201.52:8090/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://89.187.201.52:8090/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.15018E+07,
+    "Longitude": 1.07957E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 0
+  },
+  {
+    "Id": 339,
+    "CamLink": "http://109.90.49.50:81/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "CamImage": "http://109.90.49.50:81/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
+    "Latitude": 5.030967E+07,
+    "Longitude": 6729780.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 340,
+    "CamLink": "http://130.193.112.52:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://130.193.112.52:8080/record/current.jpg",
+    "Latitude": 5.390646E+07,
+    "Longitude": 1.136736E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpommern",
+    "CamType": 1
+  },
+  {
+    "Id": 341,
+    "CamLink": "http://80.153.97.20:10000/mjpg/video.mjpg",
+    "CamImage": "http://80.153.97.20:10000/jpg/image.jpg",
+    "Latitude": 5.105089E+07,
+    "Longitude": 1.373832E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 342,
+    "CamLink": "http://93.241.79.9:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.241.79.9:80/record/current.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 343,
+    "CamLink": "http://217.7.205.3:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.7.205.3:80/record/current.jpg",
+    "Latitude": 4.839841E+07,
+    "Longitude": 9991550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 344,
+    "CamLink": "http://93.241.242.213:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.241.242.213:50001/record/current.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 345,
+    "CamLink": "http://193.197.172.208:9000/?action=stream",
+    "CamImage": "http://193.197.172.208:9000/?action=snapshot",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 346,
+    "CamLink": "http://178.21.0.205:8081/mjpg/video.mjpg",
+    "CamImage": "http://178.21.0.205:8081/jpg/image.jpg",
+    "Latitude": 5.071667E+07,
+    "Longitude": 1.088333E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 347,
+    "CamLink": "http://80.153.10.199:80/cam_1.cgi",
+    "CamImage": "http://80.153.10.199:80/cam_1.cgi",
+    "Latitude": 4.87028E+07,
+    "Longitude": 9654880.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 348,
+    "CamLink": "http://213.135.7.180:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.135.7.180:8081/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 349,
+    "CamLink": "http://213.135.7.179:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.135.7.179:8082/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 350,
+    "CamLink": "http://213.135.7.178:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.135.7.178:8082/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 351,
+    "CamLink": "http://87.138.201.159:8888/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://87.138.201.159:8888/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.9417E+07,
+    "Longitude": 8717000.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 352,
+    "CamLink": "http://87.139.234.144:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.234.144:8082/record/current.jpg",
+    "Latitude": 5.033034E+07,
+    "Longitude": 1.170463E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 353,
+    "CamLink": "http://62.157.146.136:8080/jpg/image.jpg?COUNTER",
+    "CamImage": "http://62.157.146.136:8080/jpg/image.jpg?COUNTER",
+    "Latitude": 5.072724E+07,
+    "Longitude": 1.248839E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 354,
+    "CamLink": "http://80.155.54.125:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.155.54.125:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 355,
+    "CamLink": "http://87.128.61.124:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.61.124:8082/record/current.jpg",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 356,
+    "CamLink": "http://87.140.47.98:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.140.47.98:8081/record/current.jpg",
+    "Latitude": 5.243421E+07,
+    "Longitude": 1.098786E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 357,
+    "CamLink": "http://87.140.47.98:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.140.47.98:8080/record/current.jpg",
+    "Latitude": 5.243421E+07,
+    "Longitude": 1.098786E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 358,
+    "CamLink": "http://217.7.227.83:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.7.227.83:8080/record/current.jpg",
+    "Latitude": 5.223779E+07,
+    "Longitude": 8919010.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 359,
+    "CamLink": "http://80.147.14.79:9000/mjpg/video.mjpg",
+    "CamImage": "http://80.147.14.79:9000/jpg/image.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 360,
+    "CamLink": "http://93.241.219.35:8082/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://93.241.219.35:8082/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 361,
+    "CamLink": "http://80.147.188.24:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.147.188.24:81/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 362,
+    "CamLink": "http://217.61.233.16:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.61.233.16:81/record/current.jpg",
+    "Latitude": 5.071667E+07,
+    "Longitude": 1.088333E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 363,
+    "CamLink": "http://185.152.247.9:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.247.9:8080/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 364,
+    "CamLink": "http://217.92.123.13:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://217.92.123.13:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.839841E+07,
+    "Longitude": 9991550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 365,
+    "CamLink": "http://217.92.123.13:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://217.92.123.13:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.839841E+07,
+    "Longitude": 9991550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 366,
+    "CamLink": "http://217.92.123.13:8083/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://217.92.123.13:8083/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.839841E+07,
+    "Longitude": 9991550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 367,
+    "CamLink": "http://217.92.123.13:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://217.92.123.13:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.839841E+07,
+    "Longitude": 9991550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 368,
+    "CamLink": "http://5.231.131.206:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://5.231.131.206:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 369,
+    "CamLink": "http://185.152.246.202:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.246.202:8082/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 370,
+    "CamLink": "http://185.152.246.202:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.246.202:8081/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 371,
+    "CamLink": "http://185.152.246.201:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.246.201:8080/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 372,
+    "CamLink": "http://213.240.145.186:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.240.145.186:80/record/current.jpg",
+    "Latitude": 5.131971E+07,
+    "Longitude": 7339200.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 373,
+    "CamLink": "http://94.134.122.178:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://94.134.122.178:8084/record/current.jpg",
+    "Latitude": 5.145657E+07,
+    "Longitude": 7012280.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 374,
+    "CamLink": "http://217.91.145.152:80/mjpg/video.mjpg",
+    "CamImage": "http://217.91.145.152:80/jpg/image.jpg",
+    "Latitude": 5.196236E+07,
+    "Longitude": 7625710.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 375,
+    "CamLink": "http://134.255.241.150:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://134.255.241.150:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 376,
+    "CamLink": "http://134.255.241.150:8084/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://134.255.241.150:8084/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 377,
+    "CamLink": "http://87.193.219.148:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.193.219.148:80/record/current.jpg",
+    "Latitude": 5.093333E+07,
+    "Longitude": 6950000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 378,
+    "CamLink": "http://217.91.150.125:5000/mjpg/video.mjpg",
+    "CamImage": "http://217.91.150.125:5000/jpg/image.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 379,
+    "CamLink": "http://87.191.195.96:8080/mjpg/video.mjpg",
+    "CamImage": "http://87.191.195.96:8080/jpg/image.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 380,
+    "CamLink": "http://217.91.135.82:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.91.135.82:80/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 381,
+    "CamLink": "http://87.138.203.82:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.203.82:80/record/current.jpg",
+    "Latitude": 4.918335E+07,
+    "Longitude": 1.251411E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 382,
+    "CamLink": "http://93.240.101.82:80/mjpg/video.mjpg",
+    "CamImage": "http://93.240.101.82:80/jpg/image.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 383,
+    "CamLink": "http://136.37.29.65:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://136.37.29.65:80/record/current.jpg",
+    "Latitude": 5.048333E+07,
+    "Longitude": 7600000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 384,
+    "CamLink": "http://93.240.101.65:80/mjpg/video.mjpg",
+    "CamImage": "http://93.240.101.65:80/jpg/image.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 385,
+    "CamLink": "http://80.152.178.57:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.152.178.57:8080/record/current.jpg",
+    "Latitude": 4.9417E+07,
+    "Longitude": 8717000.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 386,
+    "CamLink": "http://185.39.179.54:80/mjpg/video.mjpg",
+    "CamImage": "http://185.39.179.54:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 387,
+    "CamLink": "http://80.147.175.38:80/mjpg/video.mjpg",
+    "CamImage": "http://80.147.175.38:80/jpg/image.jpg",
+    "Latitude": 5.255953E+07,
+    "Longitude": 9296130.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 388,
+    "CamLink": "http://93.241.219.35:8083/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://93.241.219.35:8083/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 389,
+    "CamLink": "http://141.57.82.40:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://141.57.82.40:80/record/current.jpg",
+    "Latitude": 5.133962E+07,
+    "Longitude": 1.237129E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 390,
+    "CamLink": "http://94.46.92.23:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://94.46.92.23:80/record/current.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 391,
+    "CamLink": "http://37.24.72.23:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://37.24.72.23:8083/record/current.jpg",
+    "Latitude": 5.127561E+07,
+    "Longitude": 8873000.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 392,
+    "CamLink": "http://94.134.122.178:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://94.134.122.178:8081/record/current.jpg",
+    "Latitude": 5.145657E+07,
+    "Longitude": 7012280.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 393,
+    "CamLink": "http://134.106.241.161:8080/?action=stream",
+    "CamImage": "http://134.106.241.161:8080/?action=snapshot",
+    "Latitude": 5.395508E+07,
+    "Longitude": 1.355661E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpommern",
+    "CamType": 1
+  },
+  {
+    "Id": 394,
+    "CamLink": "http://185.109.33.160:82/mjpg/video.mjpg",
+    "CamImage": "http://185.109.33.160:82/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 395,
+    "CamLink": "http://91.106.187.158:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://91.106.187.158:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.386893E+07,
+    "Longitude": 1.068729E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 0
+  },
+  {
+    "Id": 396,
+    "CamLink": "http://93.240.126.156:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.240.126.156:50001/record/current.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 397,
+    "CamLink": "http://134.255.241.150:8083/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://134.255.241.150:8083/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 398,
+    "CamLink": "http://93.240.213.154:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.240.213.154:81/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 399,
+    "CamLink": "http://217.6.192.146:80/mjpg/video.mjpg",
+    "CamImage": "http://217.6.192.146:80/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 400,
+    "CamLink": "http://82.207.187.133:80/mjpg/video.mjpg",
+    "CamImage": "http://82.207.187.133:80/jpg/image.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 401,
+    "CamLink": "http://5.61.162.124:80/mjpg/video.mjpg",
+    "CamImage": "http://5.61.162.124:80/jpg/image.jpg",
+    "Latitude": 5.377012E+07,
+    "Longitude": 7694810.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 402,
+    "CamLink": "http://81.14.224.120:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://81.14.224.120:8082/record/current.jpg",
+    "Latitude": 5.226594E+07,
+    "Longitude": 1.052673E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 403,
+    "CamLink": "http://93.240.63.105:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.240.63.105:50001/record/current.jpg",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 404,
+    "CamLink": "http://62.153.147.100:80/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "CamImage": "http://62.153.147.100:80/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 405,
+    "CamLink": "http://134.96.76.91:8080/?action=stream",
+    "CamImage": "http://134.96.76.91:8080/?action=snapshot",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 406,
+    "CamLink": "http://80.147.12.88:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.147.12.88:8080/record/current.jpg",
+    "Latitude": 5.18E+07,
+    "Longitude": 1.033333E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 407,
+    "CamLink": "http://93.240.30.82:81/mjpg/video.mjpg",
+    "CamImage": "http://93.240.30.82:81/jpg/image.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 408,
+    "CamLink": "http://24.134.180.81:83/oneshotimage1?COUNTER",
+    "CamImage": "http://24.134.180.81:83/oneshotimage1?COUNTER",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 0
+  },
+  {
+    "Id": 409,
+    "CamLink": "http://87.79.69.71:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.79.69.71:81/record/current.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 410,
+    "CamLink": "http://80.152.185.49:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.152.185.49:81/record/current.jpg",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 411,
+    "CamLink": "http://87.128.107.11:8001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.107.11:8001/record/current.jpg",
+    "Latitude": 4.80113E+07,
+    "Longitude": 1.28141E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 412,
+    "CamLink": "http://87.138.88.10:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.88.10:50001/record/current.jpg",
+    "Latitude": 4.905341E+07,
+    "Longitude": 1.311099E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 413,
+    "CamLink": "http://80.151.179.8:80/mjpg/video.mjpg",
+    "CamImage": "http://80.151.179.8:80/jpg/image.jpg",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 414,
+    "CamLink": "http://80.151.5.200:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.151.5.200:50001/record/current.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 415,
+    "CamLink": "http://178.19.218.195:81/mjpg/video.mjpg",
+    "CamImage": "http://178.19.218.195:81/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 416,
+    "CamLink": "http://93.240.17.189:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.240.17.189:50001/record/current.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 417,
+    "CamLink": "http://185.75.167.0:8080/mjpg/video.mjpg",
+    "CamImage": "http://185.75.167.0:8080/jpg/image.jpg",
+    "Latitude": 5.039118E+07,
+    "Longitude": 1.112309E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 418,
+    "CamLink": "http://87.139.8.175:8001/GetData.cgi?CH=1",
+    "CamImage": "http://87.139.8.175:8001/GetImage.cgi?CH=0",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 419,
+    "CamLink": "http://87.128.48.162:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.48.162:8080/record/current.jpg",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 420,
+    "CamLink": "http://195.145.171.164:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://195.145.171.164:80/record/current.jpg",
+    "Latitude": 4.768333E+07,
+    "Longitude": 1.28E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 421,
+    "CamLink": "http://85.183.32.160:8090/GetData.cgi?CH=1",
+    "CamImage": "http://85.183.32.160:8090/GetImage.cgi?CH=0",
+    "Latitude": 5.25346E+07,
+    "Longitude": 1.364116E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 422,
+    "CamLink": "http://185.171.44.149:8001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.171.44.149:8001/record/current.jpg",
+    "Latitude": 4.978636E+07,
+    "Longitude": 7651460.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 423,
+    "CamLink": "http://93.240.13.158:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.240.13.158:50001/record/current.jpg",
+    "Latitude": 4.987056E+07,
+    "Longitude": 8649440.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 424,
+    "CamLink": "http://80.152.150.139:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://80.152.150.139:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.863115E+07,
+    "Longitude": 8076070.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 425,
+    "CamLink": "http://80.152.150.139:8000/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://80.152.150.139:8000/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.863115E+07,
+    "Longitude": 8076070.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 0
+  },
+  {
+    "Id": 426,
+    "CamLink": "http://195.202.55.115:8888/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://195.202.55.115:8888/record/current.jpg",
+    "Latitude": 4.863115E+07,
+    "Longitude": 8076070.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 427,
+    "CamLink": "http://185.152.247.20:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.247.20:8080/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 428,
+    "CamLink": "http://87.140.71.14:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.140.71.14:81/record/current.jpg",
+    "Latitude": 5.115518E+07,
+    "Longitude": 1.498853E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 429,
+    "CamLink": "http://80.88.67.15:8000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.88.67.15:8000/record/current.jpg",
+    "Latitude": 4.884086E+07,
+    "Longitude": 1.296068E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 430,
+    "CamLink": "http://80.88.67.14:8000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.88.67.14:8000/record/current.jpg",
+    "Latitude": 4.884086E+07,
+    "Longitude": 1.296068E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 431,
+    "CamLink": "http://37.247.81.6:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://37.247.81.6:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 432,
+    "CamLink": "http://37.24.154.242:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://37.24.154.242:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 5.148165E+07,
+    "Longitude": 7216480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 0
+  },
+  {
+    "Id": 433,
+    "CamLink": "http://212.114.142.34:8181/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.114.142.34:8181/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 434,
+    "CamLink": "http://91.249.180.229:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://91.249.180.229:80/record/current.jpg",
+    "Latitude": 5.395508E+07,
+    "Longitude": 1.355661E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpommern",
+    "CamType": 1
+  },
+  {
+    "Id": 435,
+    "CamLink": "http://94.186.154.213:8080/cam_1.cgi",
+    "CamImage": "http://94.186.154.213:8080/cam_1.cgi",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 436,
+    "CamLink": "http://85.220.254.207:82/mjpg/video.mjpg",
+    "CamImage": "http://85.220.254.207:82/jpg/image.jpg",
+    "Latitude": 4.983333E+07,
+    "Longitude": 6466670.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 437,
+    "CamLink": "http://134.60.3.210:8080/?action=stream",
+    "CamImage": "http://134.60.3.210:8080/?action=snapshot",
+    "Latitude": 4.839841E+07,
+    "Longitude": 9991550.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 438,
+    "CamLink": "http://185.152.246.197:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.152.246.197:8080/record/current.jpg",
+    "Latitude": 5.394313E+07,
+    "Longitude": 1.030215E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 439,
+    "CamLink": "http://212.99.204.114:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.99.204.114:80/record/current.jpg",
+    "Latitude": 5.121872E+07,
+    "Longitude": 1.233008E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 440,
+    "CamLink": "http://80.151.142.110:8080/?action=stream",
+    "CamImage": "http://80.151.142.110:8080/?action=snapshot",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 441,
+    "CamLink": "http://78.94.35.106:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://78.94.35.106:80/record/current.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 442,
+    "CamLink": "http://80.151.177.103:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.151.177.103:50001/record/current.jpg",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 443,
+    "CamLink": "http://217.24.54.102:80/mjpg/video.mjpg",
+    "CamImage": "http://217.24.54.102:80/jpg/image.jpg",
+    "Latitude": 5.025937E+07,
+    "Longitude": 1.096384E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 444,
+    "CamLink": "http://185.39.179.93:80/mjpg/video.mjpg",
+    "CamImage": "http://185.39.179.93:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 445,
+    "CamLink": "http://80.152.133.46:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.152.133.46:81/record/current.jpg",
+    "Latitude": 5.060528E+07,
+    "Longitude": 8702380.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 446,
+    "CamLink": "http://80.151.152.20:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.151.152.20:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 447,
+    "CamLink": "http://80.88.67.10:8888/mjpg/video.mjpg",
+    "CamImage": "http://80.88.67.10:8888/jpg/image.jpg",
+    "Latitude": 4.884086E+07,
+    "Longitude": 1.296068E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 448,
+    "CamLink": "http://130.180.120.9:91/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://130.180.120.9:91/record/current.jpg",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 449,
+    "CamLink": "http://155.133.205.251:80/mjpg/video.mjpg",
+    "CamImage": "http://155.133.205.251:80/jpg/image.jpg",
+    "Latitude": 4.939841E+07,
+    "Longitude": 1.117404E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 450,
+    "CamLink": "http://87.140.50.204:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.140.50.204:50001/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 451,
+    "CamLink": "http://217.86.209.199:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.86.209.199:80/record/current.jpg",
+    "Latitude": 4.807143E+07,
+    "Longitude": 1.188875E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 452,
+    "CamLink": "http://217.91.40.245:80/GetData.cgi?CH=1",
+    "CamImage": "http://217.91.40.245:80/GetImage.cgi?CH=0",
+    "Latitude": 5.358249E+07,
+    "Longitude": 8366240.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 453,
+    "CamLink": "http://130.193.112.15:80/GetData.cgi?CH=1",
+    "CamImage": "http://130.193.112.15:80/GetImage.cgi?CH=0",
+    "Latitude": 5.362937E+07,
+    "Longitude": 1.141171E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpomme",
+    "CamType": 1
+  },
+  {
+    "Id": 454,
+    "CamLink": "http://217.92.148.44:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.92.148.44:8082/record/current.jpg",
+    "Latitude": 5.148333E+07,
+    "Longitude": 1.195E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 455,
+    "CamLink": "http://62.214.4.36:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://62.214.4.36:80/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 456,
+    "CamLink": "http://31.47.87.165:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://31.47.87.165:80/record/current.jpg",
+    "Latitude": 4.766033E+07,
+    "Longitude": 9175820.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 457,
+    "CamLink": "http://185.109.33.160:80/mjpg/video.mjpg",
+    "CamImage": "http://185.109.33.160:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 458,
+    "CamLink": "http://80.147.59.157:80/GetData.cgi?CH=1",
+    "CamImage": "http://80.147.59.157:80/GetImage.cgi?CH=0",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 459,
+    "CamLink": "http://213.183.77.157:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://213.183.77.157:80/record/current.jpg",
+    "Latitude": 4.781664E+07,
+    "Longitude": 9061380.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 460,
+    "CamLink": "http://87.140.92.7:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.140.92.7:8080/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 461,
+    "CamLink": "http://87.138.241.56:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.241.56:80/record/current.jpg",
+    "Latitude": 5.020679E+07,
+    "Longitude": 9277610.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 462,
+    "CamLink": "http://87.138.201.117:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.201.117:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 463,
+    "CamLink": "http://153.92.113.67:8888/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://153.92.113.67:8888/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 464,
+    "CamLink": "http://37.247.80.50:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://37.247.80.50:8081/record/current.jpg",
+    "Latitude": 5.048641E+07,
+    "Longitude": 8012040.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 465,
+    "CamLink": "http://93.104.237.149:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.104.237.149:8081/record/current.jpg",
+    "Latitude": 4.812033E+07,
+    "Longitude": 1.167868E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 466,
+    "CamLink": "http://80.147.119.158:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.147.119.158:81/record/current.jpg",
+    "Latitude": 4.874677E+07,
+    "Longitude": 9170490.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 467,
+    "CamLink": "http://78.94.187.47:90/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://78.94.187.47:90/record/current.jpg",
+    "Latitude": 5.1225E+07,
+    "Longitude": 6776670.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 468,
+    "CamLink": "http://62.146.131.236:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://62.146.131.236:80/record/current.jpg",
+    "Latitude": 4.933047E+07,
+    "Longitude": 1.102346E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 469,
+    "CamLink": "http://93.104.237.149:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://93.104.237.149:8082/record/current.jpg",
+    "Latitude": 4.812033E+07,
+    "Longitude": 1.167868E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 470,
+    "CamLink": "http://87.138.181.119:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.181.119:8080/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 471,
+    "CamLink": "http://217.113.37.181:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.113.37.181:82/record/current.jpg",
+    "Latitude": 5.122172E+07,
+    "Longitude": 6776160.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 472,
+    "CamLink": "http://80.150.121.28:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.150.121.28:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 473,
+    "CamLink": "http://194.94.76.132:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://194.94.76.132:80/record/current.jpg",
+    "Latitude": 5.433194E+07,
+    "Longitude": 1.307631E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpomme",
+    "CamType": 1
+  },
+  {
+    "Id": 474,
+    "CamLink": "http://87.139.129.156:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.129.156:8081/record/current.jpg",
+    "Latitude": 5.240463E+07,
+    "Longitude": 1.210102E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 475,
+    "CamLink": "http://87.138.181.119:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.181.119:8081/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 476,
+    "CamLink": "http://212.58.74.19:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.58.74.19:80/record/current.jpg",
+    "Latitude": 4.878232E+07,
+    "Longitude": 9177020.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 477,
+    "CamLink": "http://87.138.80.32:88/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.80.32:88/record/current.jpg",
+    "Latitude": 4.903095E+07,
+    "Longitude": 1.097221E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 478,
+    "CamLink": "http://87.139.129.174:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.129.174:8081/record/current.jpg",
+    "Latitude": 5.240463E+07,
+    "Longitude": 1.210102E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 479,
+    "CamLink": "http://87.139.234.144:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.234.144:8080/record/current.jpg",
+    "Latitude": 5.246667E+07,
+    "Longitude": 1.335E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 480,
+    "CamLink": "http://37.247.71.84:84/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://37.247.71.84:84/record/current.jpg",
+    "Latitude": 5.063536E+07,
+    "Longitude": 1.147737E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 481,
+    "CamLink": "http://80.147.236.13:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.147.236.13:8081/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 482,
+    "CamLink": "http://87.139.63.28:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.63.28:80/record/current.jpg",
+    "Latitude": 4.759331E+07,
+    "Longitude": 7620820.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 483,
+    "CamLink": "http://212.51.13.137:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.51.13.137:8080/record/current.jpg",
+    "Latitude": 5.433333E+07,
+    "Longitude": 9900000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 484,
+    "CamLink": "http://80.149.251.37:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.149.251.37:8081/record/current.jpg",
+    "Latitude": 5.066363E+07,
+    "Longitude": 1.283651E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 485,
+    "CamLink": "http://87.139.234.144:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.234.144:80/record/current.jpg",
+    "Latitude": 5.246667E+07,
+    "Longitude": 1.335E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 486,
+    "CamLink": "http://89.244.155.204:85/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://89.244.155.204:85/record/current.jpg",
+    "Latitude": 5.145657E+07,
+    "Longitude": 7012280.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 487,
+    "CamLink": "http://80.153.58.187:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.153.58.187:8081/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 488,
+    "CamLink": "http://217.92.223.122:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.92.223.122:8080/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 489,
+    "CamLink": "http://87.138.201.117:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.201.117:8081/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 490,
+    "CamLink": "http://217.92.106.140:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.92.106.140:80/record/current.jpg",
+    "Latitude": 4.813963E+07,
+    "Longitude": 1.158766E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 491,
+    "CamLink": "http://217.86.134.122:91/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.86.134.122:91/record/current.jpg",
+    "Latitude": 5.182018E+07,
+    "Longitude": 9869610.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 492,
+    "CamLink": "http://87.139.129.156:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.129.156:8082/record/current.jpg",
+    "Latitude": 5.240463E+07,
+    "Longitude": 1.210102E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 493,
+    "CamLink": "http://176.94.252.91:5000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://176.94.252.91:5000/record/current.jpg",
+    "Latitude": 5.100328E+07,
+    "Longitude": 1.148689E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 494,
+    "CamLink": "http://194.94.76.131:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://194.94.76.131:80/record/current.jpg",
+    "Latitude": 5.433194E+07,
+    "Longitude": 1.307631E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpomme",
+    "CamType": 1
+  },
+  {
+    "Id": 495,
+    "CamLink": "http://217.7.238.5:8084/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.7.238.5:8084/record/current.jpg",
+    "Latitude": 4.814702E+07,
+    "Longitude": 1.156903E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 496,
+    "CamLink": "http://80.153.58.187:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.153.58.187:8082/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 497,
+    "CamLink": "http://87.138.201.19:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.201.19:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 498,
+    "CamLink": "http://80.149.251.37:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.149.251.37:8082/record/current.jpg",
+    "Latitude": 5.066363E+07,
+    "Longitude": 1.283651E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 499,
+    "CamLink": "http://80.147.193.113:83/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.147.193.113:83/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 500,
+    "CamLink": "http://87.140.18.151:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.140.18.151:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 501,
+    "CamLink": "http://80.84.207.150:80/mjpg/video.mjpg",
+    "CamImage": "http://80.84.207.150:80/jpg/image.jpg",
+    "Latitude": 5.291667E+07,
+    "Longitude": 1.278333E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 502,
+    "CamLink": "http://46.16.223.142:80/mjpg/video.mjpg",
+    "CamImage": "http://46.16.223.142:80/jpg/image.jpg",
+    "Latitude": 4.873689E+07,
+    "Longitude": 1.296584E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 503,
+    "CamLink": "http://80.151.69.142:8080/mjpg/video.mjpg",
+    "CamImage": "http://80.151.69.142:8080/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 504,
+    "CamLink": "http://193.197.172.127:9000/?action=stream",
+    "CamImage": "http://193.197.172.127:9000/?action=snapshot",
+    "Latitude": 5.291429E+07,
+    "Longitude": 1.2188E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 505,
+    "CamLink": "http://129.13.162.107:8080/?action=stream",
+    "CamImage": "http://129.13.162.107:8080/?action=snapshot",
+    "Latitude": 4.900956E+07,
+    "Longitude": 8424540.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 506,
+    "CamLink": "http://87.140.19.70:8080/mjpg/video.mjpg",
+    "CamImage": "http://87.140.19.70:8080/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 507,
+    "CamLink": "http://185.70.145.64:80/mjpg/video.mjpg",
+    "CamImage": "http://185.70.145.64:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 508,
+    "CamLink": "http://87.140.122.56:80/mjpg/video.mjpg",
+    "CamImage": "http://87.140.122.56:80/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 509,
+    "CamLink": "http://185.39.179.26:80/mjpg/video.mjpg",
+    "CamImage": "http://185.39.179.26:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 510,
+    "CamLink": "http://153.92.113.12:80/mjpg/video.mjpg",
+    "CamImage": "http://153.92.113.12:80/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 511,
+    "CamLink": "http://87.140.45.207:80/oneshotimage1?COUNTER",
+    "CamImage": "http://87.140.45.207:80/oneshotimage1?COUNTER",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 512,
+    "CamLink": "http://185.18.130.194:8001/mjpg/video.mjpg",
+    "CamImage": "http://185.18.130.194:8001/jpg/image.jpg",
+    "Latitude": 4.904316E+07,
+    "Longitude": 1.141299E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 513,
+    "CamLink": "http://193.158.196.187:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://193.158.196.187:80/record/current.jpg",
+    "Latitude": 5.118539E+07,
+    "Longitude": 6441720.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 514,
+    "CamLink": "http://92.198.46.170:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://92.198.46.170:80/record/current.jpg",
+    "Latitude": 5.093333E+07,
+    "Longitude": 6950000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 515,
+    "CamLink": "http://94.79.182.146:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://94.79.182.146:80/record/current.jpg",
+    "Latitude": 5.132359E+07,
+    "Longitude": 6580590.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 516,
+    "CamLink": "http://188.210.45.124:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://188.210.45.124:80/record/current.jpg",
+    "Latitude": 4.931366E+07,
+    "Longitude": 6751540.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 517,
+    "CamLink": "http://134.93.182.99:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://134.93.182.99:80/record/current.jpg",
+    "Latitude": 4.998419E+07,
+    "Longitude": 8279100.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 518,
+    "CamLink": "http://85.233.53.98:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://85.233.53.98:81/record/current.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 519,
+    "CamLink": "http://212.51.19.75:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.51.19.75:80/record/current.jpg",
+    "Latitude": 5.426754E+07,
+    "Longitude": 1.017917E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 520,
+    "CamLink": "http://46.227.95.55:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://46.227.95.55:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 5.269064E+07,
+    "Longitude": 7290970.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 521,
+    "CamLink": "http://217.92.24.53:8081/mjpg/video.mjpg",
+    "CamImage": "http://217.92.24.53:8081/jpg/image.jpg",
+    "Latitude": 4.8137E+07,
+    "Longitude": 1.157521E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 522,
+    "CamLink": "http://80.153.222.47:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.153.222.47:50001/record/current.jpg",
+    "Latitude": 5.00132E+07,
+    "Longitude": 8452530.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 523,
+    "CamLink": "http://217.92.51.38:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.92.51.38:8080/record/current.jpg",
+    "Latitude": 4.851814E+07,
+    "Longitude": 1.017197E+07,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 524,
+    "CamLink": "http://131.220.147.9:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://131.220.147.9:80/record/current.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 525,
+    "CamLink": "http://217.24.53.18:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.24.53.18:80/record/current.jpg",
+    "Latitude": 5.025937E+07,
+    "Longitude": 1.096384E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 526,
+    "CamLink": "http://217.243.167.14:80/mjpg/video.mjpg",
+    "CamImage": "http://217.243.167.14:80/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 527,
+    "CamLink": "http://85.8.92.1:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://85.8.92.1:80/record/current.jpg",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 528,
+    "CamLink": "http://195.243.163.254:8080/cam_1.cgi",
+    "CamImage": "http://195.243.163.254:8080/cam_1.cgi",
+    "Latitude": 5.10721E+07,
+    "Longitude": 1.135832E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 529,
+    "CamLink": "http://87.139.9.247:80/mjpg/video.mjpg",
+    "CamImage": "http://87.139.9.247:80/jpg/image.jpg",
+    "Latitude": 5.151494E+07,
+    "Longitude": 7466000.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 530,
+    "CamLink": "http://46.16.221.234:80/mjpg/video.mjpg",
+    "CamImage": "http://46.16.221.234:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 531,
+    "CamLink": "http://217.92.9.218:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.92.9.218:80/record/current.jpg",
+    "Latitude": 4.900472E+07,
+    "Longitude": 8385830.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 532,
+    "CamLink": "http://185.10.193.210:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.10.193.210:80/record/current.jpg",
+    "Latitude": 4.781664E+07,
+    "Longitude": 9061380.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 533,
+    "CamLink": "http://212.88.135.186:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.88.135.186:8081/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 534,
+    "CamLink": "http://176.94.232.77:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://176.94.232.77:8081/record/current.jpg",
+    "Latitude": 5.100328E+07,
+    "Longitude": 1.148689E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 535,
+    "CamLink": "http://46.16.217.162:80/mjpg/video.mjpg",
+    "CamImage": "http://46.16.217.162:80/jpg/image.jpg",
+    "Latitude": 5.028333E+07,
+    "Longitude": 7550000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 536,
+    "CamLink": "http://80.153.57.150:50001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.153.57.150:50001/record/current.jpg",
+    "Latitude": 5.105089E+07,
+    "Longitude": 1.373832E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 537,
+    "CamLink": "http://194.25.112.147:8001/mjpg/video.mjpg",
+    "CamImage": "http://194.25.112.147:8001/jpg/image.jpg",
+    "Latitude": 5.089827E+07,
+    "Longitude": 1.055791E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 538,
+    "CamLink": "http://62.157.185.131:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://62.157.185.131:80/record/current.jpg",
+    "Latitude": 5.352998E+07,
+    "Longitude": 8112530.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 539,
+    "CamLink": "http://212.51.14.60:80/mjpg/video.mjpg",
+    "CamImage": "http://212.51.14.60:80/jpg/image.jpg",
+    "Latitude": 5.353333E+07,
+    "Longitude": 9950000.0,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 540,
+    "CamLink": "http://130.149.32.37:80/mjpg/video.mjpg",
+    "CamImage": "http://130.149.32.37:80/jpg/image.jpg",
+    "Latitude": 5.251853E+07,
+    "Longitude": 1.334178E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 541,
+    "CamLink": "http://217.24.53.20:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.24.53.20:80/record/current.jpg",
+    "Latitude": 5.025937E+07,
+    "Longitude": 1.096384E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 542,
+    "CamLink": "http://185.68.255.19:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://185.68.255.19:8081/record/current.jpg",
+    "Latitude": 4.941967E+07,
+    "Longitude": 6900370.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 543,
+    "CamLink": "http://217.7.249.14:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://217.7.249.14:8080/record/current.jpg",
+    "Latitude": 4.81E+07,
+    "Longitude": 1.16E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 544,
+    "CamLink": "http://85.220.149.7:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://85.220.149.7:80/record/current.jpg",
+    "Latitude": 4.983333E+07,
+    "Longitude": 6466670.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 545,
+    "CamLink": "http://62.157.163.2:81/mjpg/video.mjpg",
+    "CamImage": "http://62.157.163.2:81/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 546,
+    "CamLink": "http://195.243.163.253:8080/cam_1.cgi",
+    "CamImage": "http://195.243.163.253:8080/cam_1.cgi",
+    "Latitude": 5.10721E+07,
+    "Longitude": 1.135832E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 547,
+    "CamLink": "http://80.153.229.254:82/mjpg/video.mjpg",
+    "CamImage": "http://80.153.229.254:82/jpg/image.jpg",
+    "Latitude": 5.055398E+07,
+    "Longitude": 7972350.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 548,
+    "CamLink": "http://195.243.163.250:8080/cam_1.cgi",
+    "CamImage": "http://195.243.163.250:8080/cam_1.cgi",
+    "Latitude": 5.10721E+07,
+    "Longitude": 1.135832E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 549,
+    "CamLink": "http://87.138.157.245:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.138.157.245:80/record/current.jpg",
+    "Latitude": 5.114018E+07,
+    "Longitude": 6905340.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 550,
+    "CamLink": "http://178.15.51.243:80/mjpg/video.mjpg",
+    "CamImage": "http://178.15.51.243:80/jpg/image.jpg",
+    "Latitude": 5.430911E+07,
+    "Longitude": 1.30818E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpomme",
+    "CamType": 1
+  },
+  {
+    "Id": 551,
+    "CamLink": "http://87.139.194.232:8888/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.139.194.232:8888/record/current.jpg",
+    "Latitude": 5.094784E+07,
+    "Longitude": 8358620.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 552,
+    "CamLink": "http://80.149.125.229:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.149.125.229:8080/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 553,
+    "CamLink": "http://62.153.173.228:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://62.153.173.228:81/record/current.jpg",
+    "Latitude": 5.375E+07,
+    "Longitude": 1.021667E+07,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 554,
+    "CamLink": "http://80.153.65.223:80/mjpg/video.mjpg",
+    "CamImage": "http://80.153.65.223:80/jpg/image.jpg",
+    "Latitude": 5.274196E+07,
+    "Longitude": 1.345799E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 555,
+    "CamLink": "http://194.94.31.202:80/image?speed=0",
+    "CamImage": "http://194.94.31.202:80/image?speed=0",
+    "Latitude": 5.072136E+07,
+    "Longitude": 1.044386E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 0
+  },
+  {
+    "Id": 556,
+    "CamLink": "http://213.188.119.196:80/mjpg/video.mjpg",
+    "CamImage": "http://213.188.119.196:80/jpg/image.jpg",
+    "Latitude": 5.002627E+07,
+    "Longitude": 8885880.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 557,
+    "CamLink": "http://212.88.135.186:8082/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.88.135.186:8082/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 558,
+    "CamLink": "http://212.88.135.186:8083/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.88.135.186:8083/record/current.jpg",
+    "Latitude": 4.92354E+07,
+    "Longitude": 6981650.0,
+    "CountryCode": "de",
+    "Region": "Saarland",
+    "CamType": 1
+  },
+  {
+    "Id": 559,
+    "CamLink": "http://212.68.79.187:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.68.79.187:80/record/current.jpg",
+    "Latitude": 5.327597E+07,
+    "Longitude": 1.038831E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 560,
+    "CamLink": "http://87.128.48.162:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.48.162:80/record/current.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 561,
+    "CamLink": "http://134.93.168.151:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://134.93.168.151:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.998419E+07,
+    "Longitude": 8279100.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 0
+  },
+  {
+    "Id": 562,
+    "CamLink": "http://134.93.168.151:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://134.93.168.151:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.998419E+07,
+    "Longitude": 8279100.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 0
+  },
+  {
+    "Id": 563,
+    "CamLink": "http://217.92.72.120:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://217.92.72.120:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 5.01006E+07,
+    "Longitude": 8766470.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 0
+  },
+  {
+    "Id": 564,
+    "CamLink": "http://80.147.215.93:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.147.215.93:80/record/current.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 565,
+    "CamLink": "http://185.18.129.86:80/mjpg/video.mjpg",
+    "CamImage": "http://185.18.129.86:80/jpg/image.jpg",
+    "Latitude": 4.90341E+07,
+    "Longitude": 1.147393E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 566,
+    "CamLink": "http://80.147.183.86:83/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://80.147.183.86:83/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 567,
+    "CamLink": "http://185.70.145.77:80/mjpg/video.mjpg",
+    "CamImage": "http://185.70.145.77:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 568,
+    "CamLink": "http://109.239.168.74:8080/mjpg/video.mjpg",
+    "CamImage": "http://109.239.168.74:8080/jpg/image.jpg",
+    "Latitude": 4.879573E+07,
+    "Longitude": 1.2642E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 569,
+    "CamLink": "http://185.70.145.72:80/mjpg/video.mjpg",
+    "CamImage": "http://185.70.145.72:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 570,
+    "CamLink": "http://87.128.204.58:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.128.204.58:80/record/current.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 571,
+    "CamLink": "http://62.214.4.35:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "CamImage": "http://62.214.4.35:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 572,
+    "CamLink": "http://185.70.220.50:90/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "CamImage": "http://185.70.220.50:90/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
+    "Latitude": 4.765E+07,
+    "Longitude": 7633330.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 573,
+    "CamLink": "http://80.147.228.55:8083/mjpg/video.mjpg",
+    "CamImage": "http://80.147.228.55:8083/jpg/image.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 574,
+    "CamLink": "http://141.7.70.49:8080/cam_1.cgi",
+    "CamImage": "http://141.7.70.49:8080/cam_1.cgi",
+    "Latitude": 4.913682E+07,
+    "Longitude": 9193490.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 575,
+    "CamLink": "http://80.152.133.46:82/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://80.152.133.46:82/record/current.jpg",
+    "Latitude": 5.060528E+07,
+    "Longitude": 8702380.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 576,
+    "CamLink": "http://141.2.205.43:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://141.2.205.43:80/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 577,
+    "CamLink": "http://141.2.205.41:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://141.2.205.41:80/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 578,
+    "CamLink": "http://141.2.205.42:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://141.2.205.42:80/record/current.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 579,
+    "CamLink": "http://87.139.198.144:81/jpg/image.jpg?COUNTER",
+    "CamImage": "http://87.139.198.144:81/jpg/image.jpg?COUNTER",
+    "Latitude": 5.237052E+07,
+    "Longitude": 9733220.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 580,
+    "CamLink": "http://46.16.217.141:80/mjpg/video.mjpg",
+    "CamImage": "http://46.16.217.141:80/jpg/image.jpg",
+    "Latitude": 5.028333E+07,
+    "Longitude": 7550000.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 581,
+    "CamLink": "http://78.94.31.126:80/mjpg/video.mjpg",
+    "CamImage": "http://78.94.31.126:80/jpg/image.jpg",
+    "Latitude": 5.166114E+07,
+    "Longitude": 7792270.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 582,
+    "CamLink": "http://178.251.88.74:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://178.251.88.74:80/record/current.jpg",
+    "Latitude": 4.855281E+07,
+    "Longitude": 8823650.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 583,
+    "CamLink": "http://212.89.222.2:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.89.222.2:80/record/current.jpg",
+    "Latitude": 5.080049E+07,
+    "Longitude": 8750320.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 584,
+    "CamLink": "http://178.15.72.108:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://178.15.72.108:80/record/current.jpg",
+    "Latitude": 5.100328E+07,
+    "Longitude": 1.148689E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 585,
+    "CamLink": "http://195.185.170.96:80/mjpg/video.mjpg",
+    "CamImage": "http://195.185.170.96:80/jpg/image.jpg",
+    "Latitude": 5.011552E+07,
+    "Longitude": 8684170.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 586,
+    "CamLink": "http://77.235.182.8:80/mjpg/video.mjpg",
+    "CamImage": "http://77.235.182.8:80/jpg/image.jpg",
+    "Latitude": 5.083333E+07,
+    "Longitude": 1.291667E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 587,
+    "CamLink": "http://185.19.235.42:81/mjpg/video.mjpg",
+    "CamImage": "http://185.19.235.42:81/jpg/image.jpg",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 588,
+    "CamLink": "http://130.180.105.226:8080/mjpg/video.mjpg",
+    "CamImage": "http://130.180.105.226:8080/jpg/image.jpg",
+    "Latitude": 5.127027E+07,
+    "Longitude": 7167550.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 589,
+    "CamLink": "http://193.197.172.126:9000/?action=stream",
+    "CamImage": "http://193.197.172.126:9000/?action=snapshot",
+    "Latitude": 5.291429E+07,
+    "Longitude": 1.2188E+07,
+    "CountryCode": "de",
+    "Region": "Brandenburg",
+    "CamType": 1
+  },
+  {
+    "Id": 590,
+    "CamLink": "http://217.91.112.157:80/mjpg/video.mjpg",
+    "CamImage": "http://217.91.112.157:80/jpg/image.jpg",
+    "Latitude": 5.357532E+07,
+    "Longitude": 1.001534E+07,
+    "CountryCode": "de",
+    "Region": "Hamburg",
+    "CamType": 1
+  },
+  {
+    "Id": 591,
+    "CamLink": "http://88.210.145.142:83/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://88.210.145.142:83/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.922025E+07,
+    "Longitude": 8654780.0,
+    "CountryCode": "de",
+    "Region": "Baden-Wurttemberg",
+    "CamType": 1
+  },
+  {
+    "Id": 592,
+    "CamLink": "http://130.149.32.39:80/mjpg/video.mjpg",
+    "CamImage": "http://130.149.32.39:80/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 593,
+    "CamLink": "http://217.92.245.25:50000/mjpg/video.mjpg",
+    "CamImage": "http://217.92.245.25:50000/jpg/image.jpg",
+    "Latitude": 5.018273E+07,
+    "Longitude": 8583610.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 594,
+    "CamLink": "http://213.172.100.30:10000/mjpg/video.mjpg",
+    "CamImage": "http://213.172.100.30:10000/jpg/image.jpg",
+    "Latitude": 4.983333E+07,
+    "Longitude": 6466670.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 595,
+    "CamLink": "http://80.147.196.243:8888/mjpg/video.mjpg",
+    "CamImage": "http://80.147.196.243:8888/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 596,
+    "CamLink": "http://46.16.217.220:80/mjpg/video.mjpg",
+    "CamImage": "http://46.16.217.220:80/jpg/image.jpg",
+    "Latitude": 5.366667E+07,
+    "Longitude": 9850000.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 1
+  },
+  {
+    "Id": 597,
+    "CamLink": "http://139.13.30.135:80/mjpg/video.mjpg",
+    "CamImage": "http://139.13.30.135:80/jpg/image.jpg",
+    "Latitude": 5.352998E+07,
+    "Longitude": 8112530.0,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 598,
+    "CamLink": "http://195.243.58.195:80/mjpg/video.mjpg",
+    "CamImage": "http://195.243.58.195:80/jpg/image.jpg",
+    "Latitude": 5.10721E+07,
+    "Longitude": 1.135832E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 599,
+    "CamLink": "http://130.149.32.208:80/mjpg/video.mjpg",
+    "CamImage": "http://130.149.32.208:80/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 600,
+    "CamLink": "http://131.220.172.253:8081/mjpg/video.mjpg",
+    "CamImage": "http://131.220.172.253:8081/jpg/image.jpg",
+    "Latitude": 5.073438E+07,
+    "Longitude": 7095480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 601,
+    "CamLink": "http://80.243.36.3:80/mjpg/video.mjpg",
+    "CamImage": "http://80.243.36.3:80/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 602,
+    "CamLink": "http://217.5.197.4:80/mjpg/video.mjpg",
+    "CamImage": "http://217.5.197.4:80/jpg/image.jpg",
+    "Latitude": 5.133536E+07,
+    "Longitude": 7043480.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 603,
+    "CamLink": "http://92.79.32.5:80/mjpg/video.mjpg",
+    "CamImage": "http://92.79.32.5:80/jpg/image.jpg",
+    "Latitude": 4.998419E+07,
+    "Longitude": 8279100.0,
+    "CountryCode": "de",
+    "Region": "Rheinland-Pfalz",
+    "CamType": 1
+  },
+  {
+    "Id": 604,
+    "CamLink": "http://217.86.234.42:80/mjpg/video.mjpg",
+    "CamImage": "http://217.86.234.42:80/jpg/image.jpg",
+    "Latitude": 5.03592E+07,
+    "Longitude": 1.117463E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 605,
+    "CamLink": "http://130.149.32.46:80/mjpg/video.mjpg",
+    "CamImage": "http://130.149.32.46:80/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 606,
+    "CamLink": "http://217.7.66.54:80/mjpg/video.mjpg",
+    "CamImage": "http://217.7.66.54:80/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 607,
+    "CamLink": "http://77.235.187.81:80/mjpg/video.mjpg",
+    "CamImage": "http://77.235.187.81:80/jpg/image.jpg",
+    "Latitude": 5.083333E+07,
+    "Longitude": 1.291667E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 608,
+    "CamLink": "http://212.185.98.90:8090/mjpg/video.mjpg",
+    "CamImage": "http://212.185.98.90:8090/jpg/image.jpg",
+    "Latitude": 5.145657E+07,
+    "Longitude": 7012280.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 609,
+    "CamLink": "http://217.92.73.116:80/mjpg/video.mjpg",
+    "CamImage": "http://217.92.73.116:80/jpg/image.jpg",
+    "Latitude": 5.058333E+07,
+    "Longitude": 8650000.0,
+    "CountryCode": "de",
+    "Region": "Hessen",
+    "CamType": 1
+  },
+  {
+    "Id": 610,
+    "CamLink": "http://91.249.131.157:84/mjpg/video.mjpg",
+    "CamImage": "http://91.249.131.157:84/jpg/image.jpg",
+    "Latitude": 5.395508E+07,
+    "Longitude": 1.355661E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpomme",
+    "CamType": 1
+  },
+  {
+    "Id": 611,
+    "CamLink": "http://195.145.95.169:80/mjpg/video.mjpg",
+    "CamImage": "http://195.145.95.169:80/jpg/image.jpg",
+    "Latitude": 5.105007E+07,
+    "Longitude": 1.279754E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 612,
+    "CamLink": "http://217.91.58.189:80/mjpg/video.mjpg",
+    "CamImage": "http://217.91.58.189:80/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 613,
+    "CamLink": "http://194.95.197.251:80/mjpg/video.mjpg",
+    "CamImage": "http://194.95.197.251:80/jpg/image.jpg",
+    "Latitude": 4.9015E+07,
+    "Longitude": 1.209556E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 614,
+    "CamLink": "http://80.152.244.238:8000/mjpg/video.mjpg",
+    "CamImage": "http://80.152.244.238:8000/jpg/image.jpg",
+    "Latitude": 5.133921E+07,
+    "Longitude": 6586150.0,
+    "CountryCode": "de",
+    "Region": "Nordrhein-Westfalen",
+    "CamType": 1
+  },
+  {
+    "Id": 615,
+    "CamLink": "http://134.76.205.194:80/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "CamImage": "http://134.76.205.194:80/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "Latitude": 5.29E+07,
+    "Longitude": 1.016667E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 0
+  },
+  {
+    "Id": 616,
+    "CamLink": "http://87.138.145.102:8080/oneshotimage1?COUNTER",
+    "CamImage": "http://87.138.145.102:8080/oneshotimage1?COUNTER",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 617,
+    "CamLink": "http://82.135.31.137:8000/mjpg/video.mjpg",
+    "CamImage": "http://82.135.31.137:8000/jpg/image.jpg",
+    "Latitude": 4.813743E+07,
+    "Longitude": 1.157549E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 618,
+    "CamLink": "http://212.6.91.123:80/mjpg/video.mjpg",
+    "CamImage": "http://212.6.91.123:80/jpg/image.jpg",
+    "Latitude": 5.395508E+07,
+    "Longitude": 1.355661E+07,
+    "CountryCode": "de",
+    "Region": "Mecklenburg-Vorpomme",
+    "CamType": 1
+  },
+  {
+    "Id": 619,
+    "CamLink": "http://62.153.232.116:80/mjpg/video.mjpg",
+    "CamImage": "http://62.153.232.116:80/jpg/image.jpg",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 620,
+    "CamLink": "http://62.153.147.100:8080/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "CamImage": "http://62.153.147.100:8080/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 621,
+    "CamLink": "http://195.37.151.99:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://195.37.151.99:80/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.450382E+07,
+    "Longitude": 9102560.0,
+    "CountryCode": "de",
+    "Region": "Schleswig-Holstein",
+    "CamType": 0
+  },
+  {
+    "Id": 622,
+    "CamLink": "http://80.153.139.66:8080/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "CamImage": "http://80.153.139.66:8080/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "Latitude": 4.944778E+07,
+    "Longitude": 1.106833E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 623,
+    "CamLink": "http://80.73.112.171:80/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "CamImage": "http://80.73.112.171:80/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "Latitude": 4.884086E+07,
+    "Longitude": 1.296068E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 0
+  },
+  {
+    "Id": 624,
+    "CamLink": "http://80.73.112.172:80/mjpg/video.mjpg",
+    "CamImage": "http://80.73.112.172:80/jpg/image.jpg",
+    "Latitude": 4.884086E+07,
+    "Longitude": 1.296068E+07,
+    "CountryCode": "de",
+    "Region": "Bayern",
+    "CamType": 1
+  },
+  {
+    "Id": 625,
+    "CamLink": "http://82.198.194.150:80/mjpg/video.mjpg",
+    "CamImage": "http://82.198.194.150:80/jpg/image.jpg",
+    "Latitude": 5.07237E+07,
+    "Longitude": 1.000366E+07,
+    "CountryCode": "de",
+    "Region": "Thuringen",
+    "CamType": 1
+  },
+  {
+    "Id": 626,
+    "CamLink": "http://134.76.205.76:80/mjpg/video.mjpg",
+    "CamImage": "http://134.76.205.76:80/jpg/image.jpg",
+    "Latitude": 5.29E+07,
+    "Longitude": 1.016667E+07,
+    "CountryCode": "de",
+    "Region": "Niedersachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 627,
+    "CamLink": "http://141.48.169.7:80/mjpg/video.mjpg",
+    "CamImage": "http://141.48.169.7:80/jpg/image.jpg",
+    "Latitude": 5.18661E+07,
+    "Longitude": 1.264973E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen-Anhalt",
+    "CamType": 1
+  },
+  {
+    "Id": 628,
+    "CamLink": "http://149.220.61.172:80/mjpg/video.mjpg",
+    "CamImage": "http://149.220.61.172:80/jpg/image.jpg",
+    "Latitude": 5.105089E+07,
+    "Longitude": 1.373832E+07,
+    "CountryCode": "de",
+    "Region": "Sachsen",
+    "CamType": 1
+  },
+  {
+    "Id": 629,
+    "CamLink": "http://217.91.208.210:80/mjpg/video.mjpg",
+    "CamImage": "http://217.91.208.210:80/jpg/image.jpg",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 1
+  },
+  {
+    "Id": 630,
+    "CamLink": "http://80.149.251.53:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://80.149.251.53:8080/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 5.252437E+07,
+    "Longitude": 1.341053E+07,
+    "CountryCode": "de",
+    "Region": "Berlin",
+    "CamType": 0
+  }
+]
